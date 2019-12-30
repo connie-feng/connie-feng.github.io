@@ -10,6 +10,7 @@ categories: japan
 - Make glasses ASAP
 - Read below for more details!
 
+
 ### Airports
 If you can choose between flying into Haneda or Narita, fly into Haneda! It’s way closer and cheaper to get to central Tokyo from Haneda.
 
@@ -18,6 +19,7 @@ If you can choose between flying into Haneda or Narita, fly into Haneda! It’s 
 <u>Getting to/from Narita</u>: If you have to go from Narita and don’t want to activate your JR pass too early/deal with traffic of buses, I would recommend getting the [Narita Express round trip tickets][narita] for 4070 JPY (if your trip is two weeks or shorter). If you’re not too worried about time, you can take a Keisei bus for 1000 JPY one way to Tokyo Station, which is the cheapest option I found. If you use Google Maps, you will also find a lot of other options and their prices.
 
 [narita]: https://www.jreast.co.jp/e/pass/nex_round.html
+
 
 ### JR Pass
 Do your own calculations to see if you save money by getting the JR Pass. These are the two websites I used:
@@ -31,9 +33,22 @@ You have to order and receive the JR pass voucher in the mail BEFORE you head to
 
 Remember that the pass is only valid for consecutive days. So for example, if you get a 7 day pass and activate it on November 15, the last day you can use it is November 21.
 
+Here are my rough estimates that helped me decide to get the 7 day JR pass:
+![](/assets/jrpass_calculations.png)
+
+The bulk of the cost was taking the shinkansen (bullet train) between Tokyo and Kyoto. The estimates came out to be about $3 than the cost of the JR pass. I knew that I would probably be using the JR pass on the subway a lot more than I calculated, and the convenience of just showing the pass to the employee at the gate would be worth it for me.
+
+I exchanged my vouchers in Tokyo Station at one of the JR East Travel Service Centers. They will need the passport of each person getting a pass. I also went ahead and reserved seats for Tokyo -> Kyoto and Kyoto -> Tokyo - I already knew which trains I wanted to take from Hyperdia, so I told the employee the train number and times (i.e. *12:33 PM SHINKANSEN HIKARI 513 Tokyo Station -> Kyoto Station 3:11 PM*). Since I reserved early, I was also able to specify that I wanted to sit on the right side of the train on the way to Kyoto and on the left side of the train back to Tokyo to see Mt. Fuji!
+
+I was able to use the JR pass for some subways, bullet trains, and a couple of buses. I did get confused when some bus stops had the JR sign on them, but when I tried to show the bus driver the pass, they rejected it and I still had to pay. The [JR lines in Tokyo][jrlines] will have a 'JR' icon on the route in Google Maps.
+
+I never tried the bullet train unreserved seating with the JR pass so I'm still not sure how that works.
+
 [value_calculator]: https://www.japanstation.com/japan-rail-pass-value-calculator/
 [hyperdia]: http://www.hyperdia.com/
 [jrpass]: https://www.myjrpass.com/en/
+[jrlines]: https://www.japan-guide.com/e/e2017.html
+
 
 ### Phone
 Get a SIM card or wifi egg. I went with a data-only SIM card, but if you’re traveling with multiple people that need wifi, it might be cheaper to get a wifi egg. This is the one I ordered:  https://www.simcardgeek.com/product/japan-data-sim-card-7gb/, but it seems like I received an unlimited data SIM card? Not complaining though. It worked perfectly for my 25 day trip! I ordered this about a month before my trip, and I put it in my phone right after my plane landed. Looking back after my trip, it might have been easier to get a SIM card that could also do text messaging, because some apps like JapanTaxi require a phone number and texting to set up. There are a lot of options depending on how long your stay is. I’m not sure what option is best for study abroad though, since that’s usually at least 4 months long.
