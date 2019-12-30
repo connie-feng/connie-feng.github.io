@@ -11,21 +11,29 @@ categories: japan
 - Read below for more details!
 
 ### Airports
-If you can choose between flying into Haneda or Narita, fly into Haneda! It’s way closer and cheaper to get to Tokyo from Haneda.
+If you can choose between flying into Haneda or Narita, fly into Haneda! It’s way closer and cheaper to get to central Tokyo from Haneda.
 
-Getting to/from Haneda:
+<u>Getting to/from Haneda</u>: Just use Google Maps and take a subway!
 
-Getting to/from Narita: If you have to go from Narita and don’t want to activate your JR pass too early/deal with traffic of buses, I would recommend getting the Narita Express round trip tickets for 4070 JPY (if your trip is two weeks or shorter): https://www.jreast.co.jp/e/pass/nex_round.html. If you’re not too worried about time, you can take the Keisei bus for 1000 JPY one way.
+<u>Getting to/from Narita</u>: If you have to go from Narita and don’t want to activate your JR pass too early/deal with traffic of buses, I would recommend getting the [Narita Express round trip tickets][narita] for 4070 JPY (if your trip is two weeks or shorter). If you’re not too worried about time, you can take a Keisei bus for 1000 JPY one way to Tokyo Station, which is the cheapest option I found. If you use Google Maps, you will also find a lot of other options and their prices.
+
+[narita]: https://www.jreast.co.jp/e/pass/nex_round.html
 
 ### JR Pass
 Do your own calculations to see if you save money by getting the JR Pass. These are the two websites I used:
 
-Japan Rail Pass Value Calculator: https://www.japanstation.com/japan-rail-pass-value-calculator/
-Hyperdia (actual train ticket prices and times): http://www.hyperdia.com/
+* [Japan Rail Pass Value Calculator][value_calculator]
+* [Hyperdia][hyperdia] (actual train ticket prices and times)
 
-I bought my JR pass from this website:
+I bought my [7 day JR passes from this website][jrpass] because the price including cost of shipping was least expensive ($268/pass + $8 shipping). It seems like the prices on each website do fluctuate though, so please shop around. I received the vouchers quickly and had no problem exchanging them for the actual passes.
 
 You have to order and receive the JR pass voucher in the mail BEFORE you head to Japan. After you arrive in Japan, you can exchange the voucher for the actual pass, and tell them which day you want to activate the pass.
+
+Remember that the pass is only valid for consecutive days. So for example, if you get a 7 day pass and activate it on November 15, the last day you can use it is November 21.
+
+[value_calculator]: https://www.japanstation.com/japan-rail-pass-value-calculator/
+[hyperdia]: http://www.hyperdia.com/
+[jrpass]: https://www.myjrpass.com/en/
 
 ### Phone
 Get a SIM card or wifi egg. I went with a data-only SIM card, but if you’re traveling with multiple people that need wifi, it might be cheaper to get a wifi egg. This is the one I ordered:  https://www.simcardgeek.com/product/japan-data-sim-card-7gb/, but it seems like I received an unlimited data SIM card? Not complaining though. It worked perfectly for my 25 day trip! I ordered this about a month before my trip, and I put it in my phone right after my plane landed. Looking back after my trip, it might have been easier to get a SIM card that could also do text messaging, because some apps like JapanTaxi require a phone number and texting to set up. There are a lot of options depending on how long your stay is. I’m not sure what option is best for study abroad though, since that’s usually at least 4 months long.
@@ -81,11 +89,3 @@ JINS or Zoff are good places to make glasses, and you can get them in as little 
 
 
 
-
-
-
-<!-- Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/ -->
