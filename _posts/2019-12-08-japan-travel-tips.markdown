@@ -51,7 +51,9 @@ I never tried the bullet train unreserved seating with the JR pass so I'm still 
 
 
 ### Phone
-Get a SIM card or wifi egg. I went with a data-only SIM card, but if you’re traveling with multiple people that need wifi, it might be cheaper to get a wifi egg. This is the one I ordered:  https://www.simcardgeek.com/product/japan-data-sim-card-7gb/, but it seems like I received an unlimited data SIM card? Not complaining though. It worked perfectly for my 25 day trip! I ordered this about a month before my trip, and I put it in my phone right after my plane landed. Looking back after my trip, it might have been easier to get a SIM card that could also do text messaging, because some apps like JapanTaxi require a phone number and texting to set up. There are a lot of options depending on how long your stay is. I’m not sure what option is best for study abroad though, since that’s usually at least 4 months long.
+Get a SIM card or wifi egg. I went with a data-only SIM card, but if you’re traveling with multiple people that need wifi, it might be cheaper to get a wifi egg. I ordered this [30 day, 7 GB sim card][sim] from simcardgeek for 4980 JPY, but it seems like I received an unlimited data SIM card in the mail instead? Not complaining though. It worked perfectly for my 25 day trip! I ordered this about a month before my trip, and I put it in my phone right after my plane landed. Looking back after my trip, it might have been easier to get a SIM card that could also do text messaging, because some apps like JapanTaxi require a phone number and texting to set up. There are a lot of sim card/wifi eggs options depending on how long your stay is. I’m not sure what option is best for study abroad though, since that’s usually at least 4 months long.
+
+[sim]: https://www.simcardgeek.com/product/japan-data-sim-card-7gb/
 
 ### Google Maps
 Wonderful for taking the subway! Not so great for buses - sometimes they’ll tell you to get on the wrong side of the road, or the bus stop will actually be a couple of blocks away. Google Maps also kept telling me the wrong side of the building when I was looking for certain shops.
@@ -61,7 +63,9 @@ Also, I recommend starring all the places you want to visit on Google Maps! That
 Google Maps is not always correct for whether a place is open or not, so double check if you can! For example, we were able to go to the Osaka Expo Park on a Wednesday, even though Google Maps said it was closed (had to do a lot of googling to find out that it was open on Wednesdays during the autumn leaf season). It also told us some restaurants were open, when they were actually closed.
 
 ### Google Translate
-The camera translation feature was pretty useful, but could be highly inaccurate at times. The translation happens on the spot and keeps changing, so be sure to pause the translation if you want to read something long!
+The camera translation feature was pretty useful, but could be highly inaccurate at times. The translation happens on the spot and keeps changing, so be sure to pause the translation if you want to read something long! I used this a lot while shopping.
+
+![](/assets/google_translate.jpg)
 
 ### Subways & Buses
 At almost every subway gate, there is a little booth where an employee is standing. I found the most efficient way to ask for directions was to usually go to the booth with Google Maps open on my phone, say “sumimasen” to get their attention, and show them the station that I was trying to get to (instead of asking them in English). I also did this sometimes to double check that I was at the correct gate for the bullet train, etc in huge, confusing stations like Tokyo Station. I also did this with bus drivers to make sure I was on the correct bus.
