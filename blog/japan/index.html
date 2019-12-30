@@ -1,0 +1,15 @@
+---
+layout: page
+---
+
+Japan Blog Posts
+
+<ul>
+  {% for post in site.categories.japan %}
+    {% if post.url %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
