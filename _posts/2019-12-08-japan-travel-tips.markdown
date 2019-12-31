@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Japan travel tips for a 25 day stay"
-date:   2019-12-08 21:55:36 -0600
+date:   2019-12-08
 categories: japan
 ---
 
@@ -71,18 +71,30 @@ The camera translation feature was pretty useful, but could be highly inaccurate
 At almost every subway gate, there is a little booth where an employee is standing. I found the most efficient way to ask for directions was to usually go to the booth with Google Maps open on my phone, say “sumimasen” to get their attention, and show them the station that I was trying to get to (instead of asking them in English). I also did this sometimes to double check that I was at the correct gate for the bullet train, etc in huge, confusing stations like Tokyo Station. I also did this with bus drivers to make sure I was on the correct bus.
 
 ### Transportation (and more!) Card: Suica (IC Card)
-Get a Suica card (does not expire - https://www.jreast.co.jp/e/pass/suica.html), not Welcome Suica (it expires in 28 days - https://www.jreast.co.jp/e/welcomesuica/welcomesuica.html).
+Get a [Suica card][suica] (does not expire), not [Welcome Suica][welcome_suica] (it expires in 28 days and does not work with Apple Pay).
 
-Set up your Suica with Apple Pay: https://support.apple.com/en-us/HT207154 (I tried this with my Welcome Suica, and it did not work). This is important because it I think this is the only way you can recharge your Suica card with a credit card instead of cash. This is also great because you can add a specific number of yen to your card, instead of the usual 1000 yen increments at IC card recharge machines (good for when you’re leaving Japan and don’t want to have leftover yen). For example, I used to Google Maps and saw that taking the train to the airport was 532 yen, so I added that specific amount to my Suica with my credit card through Apple Pay, and left Japan with no yen leftover!
+[suica]: https://www.jreast.co.jp/e/pass/suica.html
+[welcome_suica]: https://www.jreast.co.jp/e/welcomesuica/welcomesuica.html
 
-IMPORTANT NOTE: I actually had the option to create a virtual Suica in my Apple Wallet on my iPhone - I’m not sure if this is because I had a Japanese SIM card. But check your Apple Wallet when you’re in Japan to see if you have that option, because then you don’t have to buy the physical card and then register it, and you don’t have to deal with the deposit and refund either.
+**IMPORTANT NOTE**: I actually had the option to create a virtual Suica in my Apple Wallet on my iPhone - I’m not sure if this is because I had a Japanese SIM card. But check your Apple Wallet when you’re in Japan to see if you have that option, because then you don’t have to buy the physical card and then register it, and you don’t have to deal with the deposit and refund either.
 
-After setting up Suica through in Apple Pay and setting it up as my Express Transit card (see the Apple Pay link), I didn’t even need to unlock my phone to scan through subway ticket gates, on the bus, at convenience stores, etc. You can use Suica at many places - vending machines, restaurants, shops. Just look for the Suica/Pasmo/IC card logo, or you can just ask “Suica?” when paying, and the person will usually understand. I was even able to use Suica in Tokyo DisneySea to pay for food and stuff in the gift shops! This is especially great if you have a travel rewards credit card with no foreign transaction fees, like Chase Sapphire Preferred (shameless plug, referral: https://www.referyourchasecard.com /6a/FVIMUWW4YM). Recharging Suica with my credit card counted as travel, so I got 2X points for that. Then I used Suica to pay at a convenience store, which would have only given me 1X points if I used my credit card.
+[Set up your Suica with Apple Pay][apple_pay]: (I tried this with my Welcome Suica, and it did not work). This is important because it I think this is the **only way you can recharge your Suica card with a credit card instead of cash**. This is also great because you can add a specific number of yen to your card, instead of the usual 1000 yen increments at IC card recharge machines (good for when you’re leaving Japan and don’t want to have leftover yen). For example, I used to Google Maps and saw that taking the train to the airport was 532 yen, so I added that specific amount to my Suica with my credit card through Apple Pay, and left Japan with no yen leftover!
+
+![](/assets/suica.PNG){:width="350px"}
+![](/assets/suica_add.PNG){:width="350px"}
+
+[apple_pay]: https://support.apple.com/en-us/HT207154
+
+After setting up Suica through in Apple Pay and setting it up as my Express Transit card (see the Apple Pay link), I didn’t even need to unlock my phone to scan through subway ticket gates, on the bus, at convenience stores, etc. You can use Suica at many places - vending machines, restaurants, shops. Just look for the Suica/Pasmo/IC card logo, or you can just ask “Suica?” when paying, and the person will usually understand. I was even able to use Suica in Tokyo DisneySea to pay for food and stuff in the gift shops! This is especially great if you have a travel rewards credit card with no foreign transaction fees, like [Chase Sapphire Preferred][chase]. Recharging Suica with my credit card counted as travel, so I got 2X points for that. Then I used Suica to pay at a convenience store, which would have only given me 1X points if I used my credit card.
+
+[chase]: https://www.referyourchasecard.com​/6a/FVIMUWW4YM
 
 ### Money
-Credit cards: Get a credit card with no foreign transaction fees (referral if you’re interested in 60,000 rewards points: https://www.referyourchasecard.com /6a/FVIMUWW4YM), and be sure to set up your travel notification on the credit card! I was able to use my VISA credit card in most places that I went to in Tokyo and Osaka. Not as many in Kyoto, especially if you are visiting places like temples. Also, if you are given the option to choose between being charged in JPY or USD, ALWAYS choose JPY (unless you’re using a card with foreign transaction fees, but please don’t lol), because the exchange rate your credit card company gives you will be much better.
+<u>Credit cards</u>: Get a [credit card with no foreign transaction fees][chase], and be sure to set up your travel notification on the credit card! I was able to use my VISA credit card in most places that I went to in Tokyo and Osaka. Not as many in Kyoto, especially if you are visiting places like temples. Also, if you are given the option to choose between being charged in JPY or USD, ALWAYS choose JPY (unless you’re using a card with foreign transaction fees, but please don’t lol), because the exchange rate your credit card company gives you will be much better.
 
-Cash: I highly recommend getting a debit card that refunds ATM fees, like the Schwab High Yield Investors Checking Account (referral: http://www.schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6HM64HHY). When I needed to withdraw cash, I just went to any 7 Eleven and used my debit card at the ATM. Minimum withdrawal was 10,000 yen, and Schwab refunded me the ATM withdrawal fees at the end of the month.
+<u>Cash</u>: I highly recommend getting a debit card that refunds ATM fees, like the [Schwab High Yield Investors Checking Account][schwab]. When I needed to withdraw cash, I just went to any 7 Eleven and used my debit card at the ATM. Minimum withdrawal was 10,000 yen, and Schwab refunded me the ATM withdrawal fees at the end of the month.
+
+[schwab]: http://www.schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6HM64HHY
 
 The exchange rates with these two methods are much better than if you brought cash in USD and exchanged it to JPY.
 
