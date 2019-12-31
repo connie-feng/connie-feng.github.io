@@ -51,14 +51,41 @@ November 14-23 includes spending for two while my dad was with me!
 
 | Place | Go? | Notes |
 | :---: | :---: | :---: |
-|  |  |  |
-
+| Sagano Scenic Railway | n | Super crowded. Pretty for a bit, but half of the time is spent going through tunnels. |
+| Hozugawa River Cruise | n | So expensive. You're crammed into a boat with a ton of other people, and the ride is way too long. Next time, I would try to get one of the cheaper private boats near the Arashiyama Bamboo forest (where this river cruise ended). |
+| Arashiyama Bamboo Grove | n | Just a sea of people. Go to Osaka Expo Park instead. They also have a bamboo forest, and tons of other things! |
+| Tenryuji Temple | y | Crowded but soooo beautiful and the grounds are big! Breathtaking autumn leaves. |
+| Fushimi Inari Taisha | n | Too crowded. |
+| Nishiki Market | y | Crowded, but lots of foods to sample! Had the softest mochi here. |
+| Kyoto Imperial Palace | y | Lovely place to walk around! |
+| Sanzenin | y | So beautiful and relaxing! Breathtaking red leaves! |
+| Hosenin | n | Right next to Sanzenin, but way smaller and more expensive. |
+| Aeon Mall | y | If you want to do some shopping, eat, or watch a movie! |
+| Gion | y | Take a short walk and people watch. |
+| Pontocho Alley | n | Super narrow alley, and most of the food places just seemed like tourist traps. |
+| Kichi Kichi | y | Expensive, but worth going once for the experience. Difficult to get a reservation. |
 
 ### Osaka Recommendations
 
 | Place | Go? | Notes |
 | :---: | :---: | :---: |
-|  |  |  |
+| Minoo Park | y | The most perfect hike I've ever been on! |
+| Osaka Castle Park | y | Super beautiful. Walk around the grounds on the perimeter if you prefer staying out of the crowds. |
+| Dotonbori | y | Great for food, shopping, and people watching! Super crowded. |
+| Pablo cheesecake | y  | Very yummy! |
+| Anello Flagship | y | If you want a nice backpack! |
+| Osaka Expo Park | y | Amazing park! Japanese garden, waterfalls, gigantic lotus pond, bamboo forest... |
+| Osaka Aquarium | y | An aquarium like IKEA where there's only one path! |
+| Rikura no mise cheesecake | n | Tastes kinda like scrambled eggs. |
+
+
+### Other Recommendations
+
+| Place | Go? | Notes |
+| :---: | :---: | :---: |
+| Togo Park, Saitama | y | Amazing red leaves! Climb up the steepest steps ever to get to the shrine at the top. |
+| Ichikawa Bekkan Seikanso Ryokan, Ikaho | y | Difficult to get to for foreigners. Amazing food and service. Private onsens were awesome! |
+
 
 #### Food Bucket List
 **Tokyo**
