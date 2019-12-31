@@ -9,6 +9,19 @@ categories: japan
 
 ### [My Spending by Day](/assets/Japan_2019_spending.pdf)
 
+### Pre-Trip Spending
+
+| Thing | Cost | Paid (after points/coupons) |
+| :---: | :---: | :---: |
+| Connie's roundtrip Houston -> Tokyo (Haneda) | $659.69 | $506.47 |
+| Dad's roundtrip Tokyo (Narita) | $411.39 | $26.21 |
+| 2 7-day JR Passes + shipping | $544.00 | $544.00 |
+| 7 GB Sim Card | 4980 JPY | $45.86 |
+| Wise Owl Hostels Tokyo, November 14-15 | $67.77 | $61.49 |
+| Kyoto Airbnb, November 15-21 | $615.22 | $615.22 |
+| ICI Hotel Asakusabashi by RELIEF, Tokyo, November 21-23 | $208.80 | $188.32 |
+| **Total** | **$2,506.87 + 4980 JPY** | **$1,987.57** |
+
 ### Tokyo Recommendations
 
 | Place | Go? | Notes |
