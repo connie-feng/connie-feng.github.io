@@ -102,13 +102,19 @@ The exchange rates with these two methods are much better than if you brought ca
 Consider staying in an airbnb or somewhere with a washing machine! There are usually no dryers though, so it might take a couple of days for something thick to dry. Bringing dry fit stuff would be a good idea, since those dry quickly!
 
 ### Passport & Tax-Free Shopping
-Bring your passport everywhere! A lot of shops offer tax-free shopping for tourists if you spend over 5000 JPY. You can ask the cashier or any employee if you can get your purchase tax-free - sometimes there is a special line for tax-free shopping.
+Bring your passport everywhere! A lot of shops offer tax-free shopping for tourists if you spend over 5000 JPY. You can ask the cashier or any employee if you can get your purchase tax-free, and sometimes there is a special check-out line for tax-free shopping.
+
+Here is a [tax-free shopping guide][tax_free_guide]. I did regret getting some snacks tax-free, because they were sealed in a special bag that I wasn't allowed to open until I left Japan. No one actually checked at the airport though. And I'm not sure how they would check either, since I put them in my checked bag.
+
+[tax_free_guide]: https://tokyocheapo.com/shopping-2/tax-free-shopping-japan/
 
 ### Souvenirs
-Don Quijote is a good place to buy different flavors of Kit Kats, but I was able to find every thing else I bought there for a lot cheaper at the grocery store (instant noodles, cookies, etc). Would highly recommend visiting a local grocery store for other food/snack souvenirs! Also, Tokyo Banana was cheaper in the duty-free shops at Haneda than anywhere else I saw them in Tokyo.
+Don Quijote is a good place to buy different flavors of Kit Kats, but I was able to find every thing else I bought there for a lot cheaper at the grocery store (instant noodles, cookies, etc). Would highly recommend visiting a local grocery store for other food/snack souvenirs! Also, Tokyo Banana was cheaper in the duty-free shops at Haneda Airport than anywhere else I saw them in Tokyo.
 
 ### JINS - making glasses
-JINS or Zoff are good places to make glasses, and you can get them in as little as 30 minutes. I went to this JINS in Shibuya: https://goo.gl/maps/SZBD2y23G3LGCA6F6 I would recommend this one because they are used to dealing with foreigners! Prescription glasses start at 5000 JPY - this includes a free vision test if you don’t have a prescription!
+JINS or Zoff are good places to make glasses, and you can get them in as little as 30 minutes. I went to the [JINS flagship in Shibuya][jins]. I would recommend this one because they are used to dealing with foreigners! Prescription glasses start at 5000 JPY - this includes a free vision test if you don’t have a prescription!
+
+[jins]: https://goo.gl/maps/SZBD2y23G3LGCA6F6
 
 1. I asked an employee to help me pick out frames. She didn’t really speak English, so we used Google Translate to communicate! The first question she asked was if I wanted to try out a new frame shape. I told her yes, and that my budget was 8000 JPY or lower. I tried on a lot of frames and she also gave her opinion on whether or not they fit my face well.
 2. After picking out my frames, I told the employee that I needed a vision test (free). We went to the second floor, and I waited for about 5 minutes before I got a vision test in English. After the vision test, I tried on lenses and decided the ones that helped me see best were too strong, so we kept adjusting the prescription to be weaker until I felt more comfortable.
