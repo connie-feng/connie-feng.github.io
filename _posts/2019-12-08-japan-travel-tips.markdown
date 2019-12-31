@@ -2,7 +2,7 @@
 layout: post
 title:  "Japan travel tips for a 25 day stay"
 date:   2019-12-08
-categories: japan
+categories: japan travel
 ---
 
 I vacationed in Japan from November 12-December 6, 2019. My sister will be studying abroad there next semester, so I gathered these tips based on my experience for her. Hopefully you will find it useful too! (:
@@ -38,7 +38,7 @@ You have to order and receive the JR pass voucher in the mail BEFORE you head to
 Remember that the pass is only valid for consecutive days. So for example, if you get a 7 day pass and activate it on November 15, the last day you can use it is November 21.
 
 Here are my rough estimates that helped me decide to get the 7 day JR pass:
-![](/assets/jrpass_calculations.png)
+![](/assets/japan/2019/jrpass_calculations.png)
 
 The bulk of the cost was taking the shinkansen (bullet train) between Tokyo and Kyoto. The estimates came out to be about $3 than the cost of the JR pass. I knew that I would probably be using the JR pass on the subway a lot more than I calculated, and the convenience of just showing the pass to the employee at the gate would be worth it for me.
 
@@ -69,7 +69,7 @@ Google Maps is not always correct for whether a place is open or not, so double 
 ### Google Translate
 The camera translation feature was pretty useful, but could be highly inaccurate at times. The translation happens on the spot and keeps changing, so be sure to pause the translation if you want to read something long! I used this a lot while shopping.
 
-![](/assets/google_translate.jpg)
+![](/assets/japan/2019/google_translate.jpg)
 
 ### Subways & Buses
 At almost every subway gate, there is a little booth where an employee is standing. I found the most efficient way to ask for directions was to usually go to the booth with Google Maps open on my phone, say “sumimasen” to get their attention, and show them the station that I was trying to get to (instead of asking them in English). I also did this sometimes to double check that I was at the correct gate for the bullet train, etc in huge, confusing stations like Tokyo Station. I also did this with bus drivers to make sure I was on the correct bus.
@@ -84,8 +84,8 @@ Get a [Suica card][suica] (does not expire), not [Welcome Suica][welcome_suica] 
 
 [Set up your Suica with Apple Pay][apple_pay]: (I tried this with my Welcome Suica, and it did not work). This is important because it I think this is the **only way you can recharge your Suica card with a credit card instead of cash**. This is also great because you can add a specific number of yen to your card, instead of the usual 1000 yen increments at IC card recharge machines (good for when you’re leaving Japan and don’t want to have leftover yen). For example, I used to Google Maps and saw that taking the train to the airport was 532 yen, so I added that specific amount to my Suica with my credit card through Apple Pay, and left Japan with no yen leftover!
 
-![](/assets/suica.PNG){:width="350px"}
-![](/assets/suica_add.PNG){:width="350px"}
+![](/assets/japan/2019/suica.PNG){:width="350px"}
+![](/assets/japan/2019/suica_add.PNG){:width="350px"}
 
 [apple_pay]: https://support.apple.com/en-us/HT207154
 

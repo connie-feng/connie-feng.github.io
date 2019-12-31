@@ -2,13 +2,13 @@
 layout: post
 title:  "My 25 day Japan 2019 Trip"
 date:   2019-12-30
-categories: japan
+categories: japan travel
 ---
 
-### [PDF of my Itinerary](/assets/Japan_2019_itinerary.pdf)
+### [PDF of my Itinerary](/assets/japan/2019/Japan_2019_itinerary.pdf)
 The itinerary was edited to reflect what I actually did. I did detailed planning for the parts of the trip where my dad was there, but made my schedule more flexible for when I was with Siying.
 
-### [My Spending by Day](/assets/Japan_2019_spending.pdf)
+### [My Spending by Day](/assets/japan/2019/Japan_2019_spending.pdf)
 November 14-23 includes spending for two while my dad was with me!
 
 ### Pre-Trip Spending
@@ -141,5 +141,3 @@ November 14-23 includes spending for two while my dad was with me!
 * Mori building digital art museum
 * Numazuko sushi! (UNAGI, salmon, ootoro)
 * Yamazaki white bread
-
-
