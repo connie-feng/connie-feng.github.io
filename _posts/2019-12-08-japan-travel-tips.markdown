@@ -106,6 +106,11 @@ Bring your passport everywhere! A lot of shops offer tax-free shopping for touri
 
 Here is a [tax-free shopping guide][tax_free_guide]. I did regret getting some snacks tax-free, because they were sealed in a special bag that I wasn't allowed to open until I left Japan. No one actually checked at the airport though. And I'm not sure how they would check either, since I put them in my checked bag.
 
+Stuff I got tax-free:
+* candy and snacks from Don Quijote
+* backpack purse from Anello
+* glasses from JINS
+
 [tax_free_guide]: https://tokyocheapo.com/shopping-2/tax-free-shopping-japan/
 
 ### Souvenirs
