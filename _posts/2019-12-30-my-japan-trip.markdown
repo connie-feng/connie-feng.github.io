@@ -6,8 +6,10 @@ categories: japan
 ---
 
 ### [PDF of my Itinerary](/assets/Japan_2019_itinerary.pdf)
+The itinerary was edited to reflect what I actually did. I did detailed planning for the parts of the trip where my dad was there, but made my schedule more flexible for when I was with Siying.
 
 ### [My Spending by Day](/assets/Japan_2019_spending.pdf)
+November 14-23 includes spending for two while my dad was with me!
 
 ### Pre-Trip Spending
 
