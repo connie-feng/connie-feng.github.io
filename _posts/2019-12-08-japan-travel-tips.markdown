@@ -5,6 +5,8 @@ date:   2019-12-08
 categories: japan
 ---
 
+### [PDF of my Itinerary](/assets/Japan_2019_itinerary.pdf)
+
 #### Tips for Jojo:
 - Try to use credit card/Suica (recharged with a credit card) for everything. Use cash as a last resort! Get those credit card rewards points!
 - Make glasses ASAP
