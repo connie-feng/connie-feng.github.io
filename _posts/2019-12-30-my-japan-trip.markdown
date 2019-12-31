@@ -45,6 +45,7 @@ November 14-23 includes spending for two while my dad was with me!
 | Ameno Yokocho | y | Tourist spot with lots of shops. The place with the cheapest kaisendons (sashimi on top of rice)!  Go here instead of Tsukiji. Also found cheaper drugstore items here as well, like pain relief patches, gentle steam eye masks, and the specific lip balm I was looking for. |
 | Ueno Park | y | The area around the lake is beautiful! |
 | Tsukiji Outer Market | n | Super crowded and I had the worst uni here. Expensive tourist trap. |
+| Jingu Gaien Ginkgo Avenue | n | Not worth going out of your way for. Luckily, we just happened to walk right through it! |
 
 
 ### Kyoto Recommendations
@@ -64,6 +65,7 @@ November 14-23 includes spending for two while my dad was with me!
 | Gion | y | Take a short walk and people watch. |
 | Pontocho Alley | n | Super narrow alley, and most of the food places just seemed like tourist traps. |
 | Kichi Kichi | y | Expensive, but worth going once for the experience. Difficult to get a reservation. |
+| Chionin Night Illumination | n | It was nice but kind of expensive. Reflections of the red leaves on the water were pretty, but I prefer red leaves during the day. |
 
 ### Osaka Recommendations
 
@@ -85,6 +87,8 @@ November 14-23 includes spending for two while my dad was with me!
 | :---: | :---: | :---: |
 | Togo Park, Saitama | y | Amazing red leaves! Climb up the steepest steps ever to get to the shrine at the top. |
 | Ichikawa Bekkan Seikanso Ryokan, Ikaho | y | Difficult to get to for foreigners. Amazing food and service. Private onsens were awesome! |
+| Any grocery store | y | Go eat all the things! Especially the prepared foods! |
+| Any convenience store | y | Same as any grocery store. Also a good place to throw away trash and use the bathroom. PLEASE eat the mapo tofu rice bowl from 7/11. |
 
 
 #### Food Bucket List
