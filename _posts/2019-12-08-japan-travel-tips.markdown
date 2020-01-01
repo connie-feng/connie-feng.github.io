@@ -102,6 +102,8 @@ After setting up Suica through in Apple Pay and setting it up as my Express Tran
 
 The exchange rates with these two methods are much better than if you brought cash in USD and exchanged it to JPY.
 
+But seriously, using Suica in my Apple Wallet was the most convenient way to pay. And it even keeps track of how much you spent, so if you track your expenses, it can help you match up your Japanese receipts to what you bought.
+
 ### Laundry
 Consider staying in an airbnb or somewhere with a washing machine! There are usually no dryers though, so it might take a couple of days for something thick to dry. Bringing dry fit stuff would be a good idea, since those dry quickly!
 
