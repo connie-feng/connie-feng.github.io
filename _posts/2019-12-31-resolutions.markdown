@@ -9,9 +9,16 @@ categories: resolutions
 * Decrease body fat from 27% to 24%
 * Move to South Korea
 * Take 5 exercise classes that I've never tried before
-* Read 24 books
+    * Warm Hatha Yoga :heavy_check_mark:
+    * ?
+    * ?
+    * ?
+    * ?
+* [Read 24 books][goodreads]
 * Migrate tumblr blog posts to this blog
     * recipes
     * travel
     * concerts
     * study abroad
+
+[goodreads]: https://www.goodreads.com/user_challenges/19697928
