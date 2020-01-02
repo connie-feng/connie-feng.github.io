@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My 25 day Japan 2019 Trip"
+title:  "My 25 day Japan 2019 Trip :jp:"
 date:   2019-12-30
 categories: japan travel
 ---

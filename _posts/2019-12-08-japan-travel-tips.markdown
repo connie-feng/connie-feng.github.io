@@ -7,7 +7,7 @@ categories: japan travel
 
 I vacationed in Japan from November 12-December 6, 2019. My sister will be studying abroad there next semester, so I gathered these tips based on my experience for her. Hopefully you will find it useful too! (:
 
-### [My Japan 2019 Trip]({% post_url 2019-12-30-my-japan-trip %})
+### :link: [My Japan 2019 Trip]({% post_url 2019-12-30-my-japan-trip %})
 
 #### Tips for Jojo:
 - Try to use credit card/Suica (recharged with a credit card) for everything. Use cash as a last resort! Get those credit card rewards points!
@@ -15,7 +15,7 @@ I vacationed in Japan from November 12-December 6, 2019. My sister will be study
 - Read below for more details!
 
 
-### Airports
+### Airports :airplane:
 If you can choose between flying into Haneda or Narita, fly into Haneda! It’s way closer and cheaper to get to central Tokyo from Haneda.
 
 <u>Getting to/from Haneda</u>: Just use Google Maps and take a subway!
@@ -25,7 +25,7 @@ If you can choose between flying into Haneda or Narita, fly into Haneda! It’s 
 [narita]: https://www.jreast.co.jp/e/pass/nex_round.html
 
 
-### JR Pass
+### JR Pass :bullettrain_side:
 Do your own calculations to see if you save money by getting the JR Pass. These are the two websites I used:
 
 * [Japan Rail Pass Value Calculator][value_calculator]
@@ -42,7 +42,7 @@ Here are my rough estimates that helped me decide to get the 7 day JR pass:
 
 The bulk of the cost was taking the shinkansen (bullet train) between Tokyo and Kyoto. The estimates came out to be about $3 than the cost of the JR pass. I knew that I would probably be using the JR pass on the subway a lot more than I calculated, and the convenience of just showing the pass to the employee at the gate would be worth it for me.
 
-I exchanged my vouchers in Tokyo Station at one of the JR East Travel Service Centers. They will need the passport of each person getting a pass. I also went ahead and reserved seats for Tokyo -> Kyoto and Kyoto -> Tokyo - I already knew which trains I wanted to take from Hyperdia, so I told the employee the train number and times (i.e. *12:33 PM SHINKANSEN HIKARI 513 Tokyo Station -> Kyoto Station 3:11 PM*). Since I reserved early, I was also able to specify that I wanted to sit on the right side of the train on the way to Kyoto and on the left side of the train back to Tokyo to see Mt. Fuji!
+I exchanged my vouchers in Tokyo Station at one of the JR East Travel Service Centers. They will need the passport of each person getting a pass. I also went ahead and reserved seats for Tokyo -> Kyoto and Kyoto -> Tokyo - I already knew which trains I wanted to take from Hyperdia, so I told the employee the train number and times (i.e. *12:33 PM SHINKANSEN HIKARI 513 Tokyo Station -> Kyoto Station 3:11 PM*). Since I reserved early, I was also able to specify that I wanted to sit on the right side of the train on the way to Kyoto and on the left side of the train back to Tokyo to see Mt. Fuji! :mount_fuji:
 
 I was able to use the JR pass for some subways, bullet trains, and a couple of buses. I did get confused when some bus stops had the JR sign on them, but when I tried to show the bus driver the pass, they rejected it and I still had to pay. The [JR lines in Tokyo][jrlines] will have a 'JR' icon on the route in Google Maps.
 
@@ -54,12 +54,12 @@ I never tried the bullet train unreserved seating with the JR pass so I'm still 
 [jrlines]: https://www.japan-guide.com/e/e2017.html
 
 
-### Phone
+### Phone :iphone:
 Get a SIM card or wifi egg. I went with a data-only SIM card, but if you’re traveling with multiple people that need wifi, it might be cheaper to get a wifi egg. I ordered this [30 day, 7 GB sim card][sim] from simcardgeek for 4980 JPY, but it seems like I received an unlimited data SIM card in the mail instead? Not complaining though. It worked perfectly for my 25 day trip! I ordered this about a month before my trip, and I put it in my phone right after my plane landed. Looking back after my trip, it might have been easier to get a SIM card that could also do text messaging, because some apps like JapanTaxi require a phone number and texting to set up. There are a lot of sim card/wifi eggs options depending on how long your stay is. I’m not sure what option is best for study abroad though, since that’s usually at least 4 months long.
 
 [sim]: https://www.simcardgeek.com/product/japan-data-sim-card-7gb/
 
-### Google Maps
+### Google Maps :world_map:
 Wonderful for taking the subway! Not so great for buses - sometimes they’ll tell you to get on the wrong side of the road, or the bus stop will actually be a couple of blocks away. Google Maps also kept telling me the wrong side of the building when I was looking for certain shops.
 
 Also, I recommend starring all the places you want to visit on Google Maps! That way when you’re in already in an area and see you starred something nearby, you can easily walk there!
@@ -71,10 +71,10 @@ The camera translation feature was pretty useful, but could be highly inaccurate
 
 ![](/assets/japan/2019/google_translate.jpg)
 
-### Subways & Buses
+### Subways & Buses :train: :bus:
 At almost every subway gate, there is a little booth where an employee is standing. I found the most efficient way to ask for directions was to usually go to the booth with Google Maps open on my phone, say “sumimasen” to get their attention, and show them the station that I was trying to get to (instead of asking them in English). I also did this sometimes to double check that I was at the correct gate for the bullet train, etc in huge, confusing stations like Tokyo Station. I also did this with bus drivers to make sure I was on the correct bus.
 
-### Transportation (and more!) Card: Suica (IC Card)
+### Transportation (and more!) Card: Suica (IC Card) :penguin:
 Get a [Suica card][suica] (does not expire), not [Welcome Suica][welcome_suica] (it expires in 28 days and does not work with Apple Pay).
 
 [suica]: https://www.jreast.co.jp/e/pass/suica.html
@@ -93,21 +93,21 @@ After setting up Suica through in Apple Pay and setting it up as my Express Tran
 
 [chase]: https://www.referyourchasecard.com​/6a/FVIMUWW4YM
 
-### Money
-<u>Credit cards</u>: Get a [credit card with no foreign transaction fees][chase], and be sure to set up your travel notification on the credit card! I was able to use my VISA credit card in most places that I went to in Tokyo and Osaka. Not as many in Kyoto, especially if you are visiting places like temples. Also, if you are given the option to choose between being charged in JPY or USD, ALWAYS choose JPY (unless you’re using a card with foreign transaction fees, but please don’t lol), because the exchange rate your credit card company gives you will be much better.
+### Money :money_with_wings:
+:credit_card: <u>Credit cards</u>: Get a [credit card with no foreign transaction fees][chase], and be sure to set up your travel notification on the credit card! I was able to use my VISA credit card in most places that I went to in Tokyo and Osaka. Not as many in Kyoto, especially if you are visiting places like temples. Also, if you are given the option to choose between being charged in JPY or USD, ALWAYS choose JPY (unless you’re using a card with foreign transaction fees, but please don’t lol), because the exchange rate your credit card company gives you will be much better.
 
-<u>Cash</u>: I highly recommend getting a debit card that refunds ATM fees, like the [Schwab High Yield Investors Checking Account][schwab]. When I needed to withdraw cash, I just went to any 7 Eleven and used my debit card at the ATM. Minimum withdrawal was 10,000 yen, and Schwab refunded me the ATM withdrawal fees at the end of the month.
+:dollar: <u>Cash</u>: I highly recommend getting a debit card that refunds ATM fees, like the [Schwab High Yield Investors Checking Account][schwab]. When I needed to withdraw cash, I just went to any 7 Eleven and used my debit card at the ATM. Minimum withdrawal was 10,000 yen, and Schwab refunded me the ATM withdrawal fees at the end of the month.
 
 [schwab]: http://www.schwab.com/public/schwab/nn/refer-prospect.html?refrid=REFER6HM64HHY
 
 The exchange rates with these two methods are much better than if you brought cash in USD and exchanged it to JPY.
 
-But seriously, using Suica in my Apple Wallet was the most convenient way to pay. And it even keeps track of how much you spent, so if you track your expenses, it can help you match up your Japanese receipts to what you bought.
+But seriously, my favorite way to pay was by scanning Suica on my phone since it was the most convenient (see Suica section). And Apple Wallet even shows the history of each transaction, so if you track your expenses, it can help you match up your Japanese receipts to what you bought.
 
-### Laundry
+### Laundry :kimono:
 Consider staying in an airbnb or somewhere with a washing machine! There are usually no dryers though, so it might take a couple of days for something thick to dry. Bringing dry fit stuff would be a good idea, since those dry quickly!
 
-### Passport & Tax-Free Shopping
+### Passport & Tax-Free Shopping :customs:
 Bring your passport everywhere! A lot of shops offer tax-free shopping for tourists if you spend over 5000 JPY. You can ask the cashier or any employee if you can get your purchase tax-free, and sometimes there is a special check-out line for tax-free shopping.
 
 Here is a [tax-free shopping guide][tax_free_guide]. I did regret getting some snacks tax-free, because they were sealed in a special bag that I wasn't allowed to open until I left Japan. No one actually checked at the airport though. And I'm not sure how they would check either, since I put them in my checked bag.
@@ -119,10 +119,18 @@ Stuff I got tax-free:
 
 [tax_free_guide]: https://tokyocheapo.com/shopping-2/tax-free-shopping-japan/
 
-### Souvenirs
+### Toilets :restroom: :toilet:
+
+I sure do miss Japanese bathrooms. Their toilets are the best. Watch [Simon and Martina's video guide on them][toilet_guide]!
+
+[toilet_guide]: https://www.youtube.com/watch?v=XRAHxvLu9es
+
+If you are out and about and need to use the bathroom, most convenience stores have a public restroom you can use even if you don't buy anything.
+
+### Souvenirs :handbag:
 Don Quijote is a good place to buy different flavors of Kit Kats, but I was able to find every thing else I bought there for a lot cheaper at the grocery store (instant noodles, cookies, etc). Would highly recommend visiting a local grocery store for other food/snack souvenirs! Also, Tokyo Banana was cheaper in the duty-free shops at Haneda Airport than anywhere else I saw them in Tokyo.
 
-### JINS - making glasses
+### JINS - making glasses :eyeglasses:
 JINS or Zoff are good places to make glasses, and you can get them in as little as 30 minutes. I went to the [JINS flagship in Shibuya][jins]. I would recommend this one because they are used to dealing with foreigners! Prescription glasses start at 5000 JPY - this includes a free vision test if you don’t have a prescription!
 
 [jins]: https://goo.gl/maps/SZBD2y23G3LGCA6F6
