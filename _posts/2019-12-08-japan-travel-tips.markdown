@@ -121,7 +121,7 @@ Stuff I got tax-free:
 
 ### Toilets :restroom: :toilet:
 
-I sure do miss Japanese bathrooms. Their toilets are the best. Watch [Simon and Martina's video guide on them][toilet_guide]!
+I sure do miss Japanese bathrooms. Their toilets are the best. I watched [Simon and Martina's video guide on them][toilet_guide] before my trip!
 
 [toilet_guide]: https://www.youtube.com/watch?v=XRAHxvLu9es
 
