@@ -10,7 +10,7 @@ categories: resolutions
 * Move to South Korea
 * Take 5 exercise classes that I've never tried before
     * Warm Hatha Yoga :heavy_check_mark:
-    * ?
+    * Intro to Pole :heavy_check_mark:
     * ?
     * ?
     * ?
