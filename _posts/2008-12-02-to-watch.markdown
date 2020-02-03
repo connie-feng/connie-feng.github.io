@@ -40,6 +40,8 @@ categories: kdramas dramas movies
 * Special Labor Inspector Jo
 * Extraordinary You
 * My Fellow Citizens
+* Eun Joo's Room
+* The Secret Life of My Secretary
 
 ### Movie Watch List
 
@@ -97,3 +99,4 @@ categories: kdramas dramas movies
 * The King's Case
 * One Day (Thai)
 * Life-Risking Romance
+* Mood of the Day

@@ -8,12 +8,12 @@ categories: resolutions
 * Take mom on vacation
 * Decrease body fat from 27% to 24%
 * Move to South Korea
-* Take 5 exercise classes that I've never tried before
+* Take 5 exercise classes that I've never tried before :heavy_check_mark:
     * Warm Hatha Yoga :heavy_check_mark:
     * Intro to Pole :heavy_check_mark:
-    * ?
-    * ?
-    * ?
+    * Energy Movement Vibrations Class - Body and Brain Yoga :heavy_check_mark:
+    * Trampoline :heavy_check_mark:
+    * Barre :heavy_check_mark:
 * [Read 24 books][goodreads]
 * Migrate tumblr blog posts to this blog
     * recipes
