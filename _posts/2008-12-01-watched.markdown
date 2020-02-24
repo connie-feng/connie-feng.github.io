@@ -35,7 +35,7 @@ categories: kdramas dramas movies
 | Youn's Kitchen 2 | March '19 | n | n |
 | Korean Hostel in Spain | April/May/June '19 | y | y |
 | It's Dangerous Beyond the Blankets | June/July '19 | y | y |
-| BTS Bon Voyage 4 | December '19/January '20 |  | y |
+| BTS Bon Voyage 4 | December '19/January '20 | y | y |
 
 
 ### Drama Watch History
@@ -141,7 +141,7 @@ categories: kdramas dramas movies
 | School 2017 | Korea | November/December '17 | y | n |
 | Let's Eat 2 | Korea | November/December '17 | y | y |
 | I Am Not a Robot | Korea | December '17/January/March '18 | y | n |
-| While You Were Sleeping | Korea | December '17/February '18, August/September/October/November/December '19 | y | y |
+| While You Were Sleeping | Korea | December '17/February '18, August/September/October/November/December '19, January/February '20 | y | y |
 | Woohoo Waikiki | Korea | February/March/April '18 | y | y |
 | Because It's Our First Life | Korea | March '18 | y | y |
 | The Great Seducer | Korea | March/April/May '18 | y | n |
