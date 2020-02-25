@@ -2,7 +2,7 @@
 layout: post
 title:  "Things I Appreciate More after Visiting Hyderabad, India"
 date:   2020-02-25
-categories: india travel
+categories: travel india
 ---
 
 * stable electricity
