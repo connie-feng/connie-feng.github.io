@@ -18,7 +18,7 @@ categories: india travel
 * short commutes
 * wide sidewalks without giant holes
 
-I got to go on a work trip to Hyderabad from January 6-16!
+I got to go on a work trip to Hyderabad from January 6-16! It was an eye-opening trip that made me feel very lucky and grateful.
 
 Flight to Hyderabad
 ![](/assets/hyderabad/IMG_4367.jpeg)
