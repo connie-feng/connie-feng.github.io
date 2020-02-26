@@ -65,7 +65,7 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.13.0)
-    nokogiri (1.10.7)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -96,9 +96,10 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jemoji
   minima (~> 2.5)
+  nokogiri (>= 1.10.8)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
 
 BUNDLED WITH
-   2.1.2
+   2.1.4
