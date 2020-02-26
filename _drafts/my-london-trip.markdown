@@ -10,7 +10,7 @@ categories: london travel
 | Thing | Cost | Paid (after points/coupons) |
 | :---: | :---: | :---: |
 | Roundtrip Flight Houston -> London (Heathrow) | $412.65 | $412.65 |
-| Warner Bros. Studio Tour London - The Making of Harry Potter ticket + digital guide | £51.95 | $ |
+| Warner Bros. Studio Tour London - The Making of Harry Potter ticket + digital guide | £51.95 | $67.45 |
 |  | $ | $ |
 |  |  |  |
 |  |  |  |

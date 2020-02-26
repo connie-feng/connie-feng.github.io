@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Japan 2019 Trip in Photos"
+title:  "My Japan 2019 Trip in Photos :camera:"
 date:   2020-02-24
 categories: travel japan
 ---
