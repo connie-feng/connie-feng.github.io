@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bucket Lists
+title: "Bucket Lists :scroll:"
 permalink: /bucketlists/
 ---
 
