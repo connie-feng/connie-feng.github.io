@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Resolutions
-permalink: /resolutions/
+title: Bucket Lists
+permalink: /bucketlists/
 ---
 
 <ul>
-  {% for post in site.categories.resolutions %}
+  {% for post in site.categories.bucketlists %}
     {% if post.url %}
       <li>
         <a href="{{ post.url }}" target="_blank">

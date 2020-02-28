@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "2020 Resolutions"
+title:  "2020 Bucket List"
 date:   2019-12-31
-categories: resolutions
+categories: bucketlists
 ---
 
 * Take mom on vacation
