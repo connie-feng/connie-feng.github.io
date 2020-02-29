@@ -57,6 +57,8 @@ plugins:
 
 header_pages:
   - about.md
+  - bucketlists.md
   - travel.md
   - watchlists.md
-  - bucketlists.md
+
+google_analytics: UA-159320542-1
