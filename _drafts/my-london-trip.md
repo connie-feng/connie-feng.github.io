@@ -22,3 +22,6 @@ categories: london travel
 | **Total** | **$** | **$** |
 
 
+### Packing List
+* ziploc bags
+* foldable bag
