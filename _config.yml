@@ -28,6 +28,20 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
+youtube_channel: UCgacoRxKVhvxEFME8pb7aoQ
+youtube_channel_name: Connie's Slice-of-Life
+header_pages:
+  - about.md
+  - bucketlists.md
+  - travel.md
+  - watchlists.md
+
+google_analytics: UA-159320542-1
+
+# minima:
+#   social_links:
+#     twitter: jekyllrb
+#     github:  jekyll
 
 # Build settings
 theme: minima
@@ -55,10 +69,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-header_pages:
-  - about.md
-  - bucketlists.md
-  - travel.md
-  - watchlists.md
 
-google_analytics: UA-159320542-1
+# minima:
+#   social_links:
+#     youtube: hi
+#     youtube_channel: UCgacoRxKVhvxEFME8pb7aoQ
+#     youtube_channel_name: Connie's Slice-of-Life
