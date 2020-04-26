@@ -17,7 +17,7 @@ permalink: /travel/
   {% endfor %}
 </ul>
 
-<h3>London</h3>
+<!-- <h3>London</h3>
 <ul>
   {% for post in site.categories.london %}
     {% if post.url %}
@@ -28,7 +28,7 @@ permalink: /travel/
       </li>
     {% endif %}
   {% endfor %}
-</ul>
+</ul> -->
 
 <h3>India</h3>
 <ul>
