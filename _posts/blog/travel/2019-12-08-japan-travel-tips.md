@@ -2,7 +2,7 @@
 layout: post
 title:  "Japan travel tips for a 25 day stay"
 date:   2019-12-08
-categories: travel japan
+categories: blog travel japan
 ---
 
 I vacationed in Japan from November 12-December 6, 2019. My sister will be studying abroad there next semester, so I gathered these tips based on my experience for her. Hopefully you will find it useful too! (:

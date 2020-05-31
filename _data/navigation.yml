@@ -11,11 +11,11 @@
   side: left
   dropdown:
   - title: "Bucket Lists"
-  - url: /blog/bucketlists/
+    url: /blog/bucketlists/
   - title: "Travel"
-  - url: /blog/travel/
+    url: /blog/travel/
   - title: "Watch Lists"
-  - url: /blog/watchlists/
+    url: /blog/watchlists/
   - title: "Blog Archive"
     url: "/blog/archive/"
 
