@@ -5,6 +5,9 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+header:
+  image_fullwidth: "header--autumn-japan.jpeg"
+  caption: Tenryuji, November 2019.
 widget1:
   title: "TODO"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
