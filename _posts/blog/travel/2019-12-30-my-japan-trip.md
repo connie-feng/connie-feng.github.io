@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: page
 title:  "My 25 day Japan 2019 Trip :jp:"
 date:   2019-12-30
-categories: travel japan
+categories:
+  - blog
+  - travel
+  - japan
 ---
 
 ### :open_file_folder: [PDF of my Itinerary](/assets/japan/2019/Japan_2019_itinerary.pdf)

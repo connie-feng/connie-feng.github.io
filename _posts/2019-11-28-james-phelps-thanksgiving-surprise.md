@@ -1,7 +1,9 @@
 ---
-layout: post
-title:  "A Thanksgiving Surprise from James Phelps :zap:"
-date:   2019-11-28
+layout: page
+title: "A Thanksgiving Surprise from James Phelps :zap:"
+date: 2019-11-28
+categories:
+  - blog
 ---
 
 The best present ever from Carols! Such a thoughtful message from James! :heart:
