@@ -12,6 +12,8 @@
   dropdown:
   - title: "Bucket Lists"
     url: /blog/bucketlists/
+  - title: "Recipes"
+    url: /blog/recipes/
   - title: "Travel"
     url: /blog/travel/
   - title: "Watch Lists"
