@@ -87,8 +87,8 @@ Get a [Suica card][suica] (does not expire), not [Welcome Suica][welcome_suica] 
 
 [Set up your Suica with Apple Pay][apple_pay]: (I tried this with my Welcome Suica, and it did not work). This is important because it I think this is the **only way you can recharge your Suica card with a credit card instead of cash**. This is also great because you can add a specific number of yen to your card, instead of the usual 1000 yen increments at IC card recharge machines (good for when you’re leaving Japan and don’t want to have leftover yen). For example, I used to Google Maps and saw that taking the train to the airport was 532 yen, so I added that specific amount to my Suica with my credit card through Apple Pay, and left Japan with no yen leftover!
 
-![](/assets/japan/2019/suica.PNG){:width="350px"}
-![](/assets/japan/2019/suica_add.PNG){:width="350px"}
+![](/assets/japan/2019/suica.PNG){:width="300px"}
+![](/assets/japan/2019/suica_add.PNG){:width="300px"}
 
 [apple_pay]: https://support.apple.com/en-us/HT207154
 
