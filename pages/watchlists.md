@@ -8,7 +8,7 @@ permalink: "blog/watchlists/"
   {% for post in site.categories.watchlists %}
     {% if post.url %}
       <li>
-        <a href="{{ post.url }}" target="_blank">
+        <a href="{{ post.url }}">
           {{ post.title }}
         </a>
       </li>
