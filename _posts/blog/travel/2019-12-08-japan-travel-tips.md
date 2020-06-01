@@ -10,7 +10,7 @@ categories:
 
 I vacationed in Japan from November 12-December 6, 2019. My sister will be studying abroad there next semester, so I gathered these tips based on my experience for her. Hopefully you will find it useful too! (:
 
-### :link: [My Japan 2019 Trip]({% post_url 2019-12-30-my-japan-trip %})
+### :link: [My Japan 2019 Trip]({% post_url blog/travel/2019-12-30-my-japan-trip %})
 
 #### Tips for Jojo:
 - Try to use credit card/Suica (recharged with a credit card) for everything. Use cash as a last resort! Get those credit card rewards points!
