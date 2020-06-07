@@ -18,6 +18,8 @@
     url: /blog/travel/
   - title: "Watch Lists"
     url: /blog/watchlists/
+  - title: "Software Engineering"
+    url: /blog/software_engineering/
   - title: "Blog Archive"
     url: "/blog/archive/"
 
