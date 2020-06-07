@@ -20,6 +20,7 @@ teaser: I always forget things that will make me feel better when I'm in the mom
 * Don't worry about stuff you can't control.
 * Think about your worst week of sophomore year... If you can survive that week, you can survive anything!
 * Everything seems like the end of the world when you're going through it.
+* “No good sittin' worryin' abou' it. What's comin' will come, an' we'll meet it when it does.” - Hagrid
 
 ### Comparisons + Negativity
 * Stop comparing your normal to someone else's highlights.
