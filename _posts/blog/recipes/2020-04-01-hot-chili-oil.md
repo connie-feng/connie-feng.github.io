@@ -19,4 +19,9 @@ video:
 * sesame seeds (optional)
 
 ### Directions
-1.
+1. Fill a <b>heat proof container</b> with cold chili flakes (I kept mine in the fridge).
+2. Add crushed peanuts.
+3. On the stove, heat up the oil (enough to fill the rest of the container) until barely smoking.
+4. Slowly and carefully, spoon the hot oil into the heat proof container in a well-ventilated area. The contents of the container will start to bubble and fry in the hot oil. If it looks like the chili flakes are burning, you can wait for the oil to cool down a bit before pouring more.
+5. Add sesame seeds.
+6. Let cool for at least an hour before you try to move it.
