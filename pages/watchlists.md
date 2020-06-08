@@ -4,14 +4,4 @@ title: "Watch Lists :tv:"
 permalink: "blog/watchlists/"
 ---
 
-<ul>
-  {% for post in site.categories.watchlists %}
-    {% if post.url %}
-      <li>
-        <a href="{{ post.url }}">
-          {{ post.title }}
-        </a>
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul>
+{% include list-posts entries='1000' offset='0' category='watchlists' %}
