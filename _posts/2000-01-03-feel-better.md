@@ -37,5 +37,9 @@ teaser: I always forget things that will make me feel better when I'm in the mom
 ### Discipline
 * Cravings and desires are always changing based on your brain and environment. Don't fall for desires that satisfy short-term goals but don't fulfill the long-term goals of your true self. For example, having seconds or that extra dessert will satisfy your short-term cravings, but not your long-term health goals; lashing out when you're feeling angry might make you feel better now, but will make you feel worse later.
 
+### Meditation
+* Take deep breaths. Imagine inhaling positive energy and exhaling all the negative energy.
+
 ### Gratitude
 * Think about how adorable your mom is. (TODO: add text photos)
+* Think about how adorable your dad is, and that expression on his face when he's trying to hold back a mischievous smile.
