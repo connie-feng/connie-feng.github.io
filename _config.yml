@@ -50,6 +50,7 @@ plugins:
     - jekyll-gist
     - jekyll-paginate
     - jemoji
+    - jekyll-sitemap
 
 
 #       ____              _             __  _
@@ -113,7 +114,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for pages
+      author: connie     # Default author for pages
   -
     scope:
       path: ''
@@ -122,9 +123,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: phlow     # Default author for posts
-
-
+      author: connie     # Default author for posts
 
 #       _   __            _             __  _
 #      / | / /___ __   __(_)___ _____ _/ /_(_)___  ____

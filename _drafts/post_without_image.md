@@ -1,5 +1,6 @@
 ---
 layout: page
+sitemap: false
 #
 # Content
 #
@@ -7,9 +8,9 @@ subheadline: ""
 title: ""
 teaser: ""
 categories:
-  - 
+  -
 tags:
-  - 
+  -
 ---
 
 

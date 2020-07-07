@@ -1,5 +1,6 @@
 ---
 layout: page-fullwidth
+sitemap: false
 #
 # Content
 #
@@ -7,9 +8,9 @@ subheadline: ""
 title: ""
 teaser: ""
 categories:
-  - 
+  -
 tags:
-  - 
+  -
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">

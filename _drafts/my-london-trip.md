@@ -1,5 +1,6 @@
 ---
 layout: page
+sitemap: false
 title:  "My 7 Day London 2020 Trip :gb:"
 date:   2008-12-02
 categories:

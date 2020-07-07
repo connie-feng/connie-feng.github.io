@@ -1,5 +1,6 @@
 ---
 layout: page
+sitemap: false
 #
 # Content
 #
@@ -7,9 +8,9 @@ subheadline: ""
 title: ""
 teaser: ""
 categories:
-  - 
+  -
 tags:
-  - 
+  -
 #
 # Styling
 #
@@ -47,8 +48,8 @@ meta_description:
 permalink:
 tawkto: true               # Enable tawk.to-Service › More › _config.yml
 callforaction:
-  url: 
-  text: 
+  url:
+  text:
   style: alert
 #
 # This is a nasty hack to make the navigation highlight

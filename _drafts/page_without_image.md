@@ -1,5 +1,6 @@
 ---
 layout: page
+sitemap: false
 #
 # Content
 #
@@ -9,7 +10,7 @@ teaser: ""
 meta_description:
 permalink:
 categories:
-    - 
+    -
 tags:
-    - 
+    -
 ---

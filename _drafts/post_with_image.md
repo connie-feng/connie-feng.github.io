@@ -1,5 +1,6 @@
 ---
 layout: page
+sitemap: false
 #
 # Content
 #
@@ -8,9 +9,9 @@ title: ""
 teaser: ""
 meta_description: ""
 categories:
-  - 
+  -
 tags:
-  - 
+  -
 #
 # Styling
 #

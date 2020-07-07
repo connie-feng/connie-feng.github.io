@@ -1,5 +1,6 @@
 ---
 title:  "Fulbright Timeline: South Korea ETA"
+sitemap: false
 layout: page-fullwidth
 
 exampleEvents:
