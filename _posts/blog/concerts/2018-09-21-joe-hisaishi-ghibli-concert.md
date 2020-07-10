@@ -44,7 +44,7 @@ I've listened to this concert on YouTube so many times, so being able to go in r
 
 | Thing | Cost | Paid (after points/coupons/splitting the bill) |
 | :---: | :---: | :---: |
-| Concert VIP Package + Ticket | $315.40 | $315.40 |
+| Concert VIP Package | $315.40 | $315.40 |
 | Roundtrip flight | ? - it was on Spirit, so I'm just going to guess ~$150.00 | ~$150.00 |
 | [Airbnb][airbnb] | $128.46 | $64.23 |
 | Lyft/Uber | $185.30 | $92.65 |
