@@ -39,3 +39,21 @@ We only got like 15 seconds with him because they were rushing groups through an
 And I still don’t know if he really speaks English! He didn’t speak to the audience during the concert and when we met him I only recall him saying ‘Thank you’. xD
 
 I've listened to this concert on YouTube so many times, so being able to go in real life was a dream come true!
+
+### Budget
+
+| Thing | Cost | Paid (after points/coupons/splitting the bill) |
+| :---: | :---: | :---: |
+| Concert VIP Package + Ticket | $315.40 | $315.40 |
+| Roundtrip flight | ? - it was on Spirit, so I'm just going to guess ~$150.00 | ~$150.00 |
+| [Airbnb][airbnb] | $128.46 | $64.23 |
+| Lyft/Uber | $185.30 | $92.65 |
+| Earl of Sandwich | $10.94 | $10.94 |
+| Ye Olde King's Head | $29.15 | $29.15 |
+| Myung Dong Noodle House | $13.00 | $13.00 |
+| Built Custom Burger | $15.33 | $15.33 |
+| Airport Parking | $10.25 | $10.25 |
+| Hugh Spa | $20.00 | $20.00 |
+| **Total** | **~$877.83** | **~$720.95** |
+
+[airbnb]: https://www.airbnb.com/c/cfeng119?referral_share_id=4552498b-44fe-4d03-977c-dc5fb81325b5
