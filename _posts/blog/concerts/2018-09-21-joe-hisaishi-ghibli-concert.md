@@ -45,7 +45,7 @@ I've listened to this concert on YouTube so many times, so being able to go in r
 | Thing | Cost | Paid (after points/coupons/splitting the bill) |
 | :---: | :---: | :---: |
 | Concert VIP Package | $315.40 | $315.40 |
-| Roundtrip flight | ? - it was on Spirit, so I'm just going to guess ~$150.00 | $0.00 |
+| Roundtrip flight (Houston -> LAX) | ? - it was on Spirit, so I'm just going to guess ~$150.00 | $0.00 |
 | [Airbnb][airbnb] | $128.46 | $64.23 |
 | Lyft/Uber | $185.30 | $92.65 |
 | Earl of Sandwich | $10.94 | $10.94 |
@@ -56,4 +56,4 @@ I've listened to this concert on YouTube so many times, so being able to go in r
 | Hugh Spa | $20.00 | $20.00 |
 | **Total** | **~$877.83** | **$570.95** |
 
-[airbnb]: https://www.airbnb.com/c/cfeng119?referral_share_id=4552498b-44fe-4d03-977c-dc5fb81325b5
+[airbnb]: https://www.airbnb.com/c/cfeng119?s=8
