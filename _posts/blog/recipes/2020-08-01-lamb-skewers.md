@@ -5,16 +5,16 @@ date:   2020-08-01
 categories:
   - blog
   - recipes
-iframe: "<iframe width='970' height='546' src='https://www.youtube.com/embed/n_AQWnCTQ20' frameborder='0' allow='accelerometer; autcoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='https://www.youtube.com/embed/G6sLZdLDTo8' frameborder='0' allow='accelerometer; autcoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
 video:
-  embedURL: "https://www.youtube.com/embed/n_AQWnCTQ20"
-  contentURL: "https://www.youtube.com/watch?v=n_AQWnCTQ20"
+  embedURL: "https://www.youtube.com/embed/G6sLZdLDTo8"
+  contentURL: "https://www.youtube.com/watch?v=G6sLZdLDTo8"
 ---
 
 ### Ingredients
 
 * 1 lb boneless lamb leg (makes 4 skewers)
-* 1/2 teaspoon salt
+* 1/2 teaspoon salt (or to taste)
 * 1/2 teaspoon cumin
 * 1 tablespoon chili flakes (I used Korean hot pepper flakes)
 
