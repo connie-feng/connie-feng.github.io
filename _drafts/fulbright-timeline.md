@@ -5,6 +5,9 @@ layout: page-fullwidth
 
 exampleEvents:
 
+- name: Receive award paperwork from KAEC
+  to: 2020-08-04
+
 - name: Notification of tentative new start date
   to: 2020-07-01
 

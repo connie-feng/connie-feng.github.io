@@ -16,11 +16,17 @@ teaser: I always forget things that will make me feel better when I'm in the mom
 * You are not your emotions.
 * You can decide to be happy.
 
+## The Four Agreements
+* Don't take anything personally. Even if someone insults you to your face, it's not because of you - it's because of him/herself.
+* Do your best. But realize that your best is always changing. It will be different when you wake up in the morning, refreshed and ready for a new day, versus at the end of a long day. It will be different when you're sick. When you're happy or sad. Your best will change every day, every hour, every minute.
+* Humans are the only ones that punish themselves thousands of times for the same mistake. Other creatures only pay once for a mistake. Don't punish yourself more than once for the same mistake. Don't punish others over and over again for the same mistake. True justice is paying for something once; injustice is paying for it over and over again.
+
 ### Stress + Worry
 * Don't worry about stuff you can't control.
 * Think about your worst week of sophomore year... If you can survive that week, you can survive anything!
 * Everything seems like the end of the world when you're going through it.
 * “No good sittin' worryin' abou' it. What's comin' will come, an' we'll meet it when it does.” - Hagrid
+* Stop worrying about your parents. It makes them feel bad.
 
 ### Comparisons + Negativity
 * Stop comparing your normal to someone else's highlights.
