@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Watch Lists :tv:"
+title: "Watch Lists"
 permalink: "blog/watchlists/"
 ---
 
