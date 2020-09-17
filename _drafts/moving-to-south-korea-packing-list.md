@@ -19,6 +19,7 @@ tags:
 * ear plugs
 * T-money cards
 * antibacterial wipes
+* wallet
 
 #### Clothes
 * raincoat
@@ -35,7 +36,7 @@ tags:
 * jean shorts
 * denim pants
 
-#### Underclothes
+#### Undergarments
 * bras (5)
 * underwear
 * thinx shorts (4)
