@@ -3,21 +3,32 @@ layout: compress
 ---
 <!doctype html>
 <html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
-<head>
-	{% include _head.html %}
-</head>
-<body id="top-of-page" class="{{ layout.format }}">
-	{% unless page.skip_boilerplate %}
-	{% include _navigation.html %}
-	{% endunless %}
+	{% seo %}
+	<head>
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-159320542-1"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
 
-	{% include _masthead.html %}
-	{{ content }}
+		  gtag('config', 'UA-159320542-1');
+		</script>
 
-	{% unless page.skip_boilerplate %}
-	{% include _footer.html %}
-	{% endunless %}
+		{% include _head.html %}
+	</head>
+	<body id="top-of-page" class="{{ layout.format }}">
+		{% unless page.skip_boilerplate %}
+		{% include _navigation.html %}
+		{% endunless %}
 
-	{% include _footer_scripts.html %}
-</body>
+		{% include _masthead.html %}
+		{{ content }}
+
+		{% unless page.skip_boilerplate %}
+		{% include _footer.html %}
+		{% endunless %}
+
+		{% include _footer_scripts.html %}
+	</body>
 </html>
