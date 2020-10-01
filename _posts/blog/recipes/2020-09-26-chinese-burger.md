@@ -1,6 +1,6 @@
 ---
 layout: video
-title:  "肉夹馍 ｜ Chinese Hamburger (Pork Belly Bun) | Rou Jia Mo"
+title:  "肉夹馍 | Chinese Hamburger (Pork Belly Bun) | Rou Jia Mo"
 date:   2020-09-26
 categories:
   - blog
