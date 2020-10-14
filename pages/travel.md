@@ -1,8 +1,11 @@
 ---
 layout: page
-title: "Travel :airplane:"
+title: "Travel"
 permalink: "blog/travel/"
 ---
+
+<h3>Costa Rica</h3>
+{% include list-posts entries='1000' offset='0' category='costa_rica' %}
 
 <h3>Japan</h3>
 {% include list-posts entries='1000' offset='0' category='japan' %}
