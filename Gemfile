@@ -8,6 +8,7 @@ group :jekyll_plugins do
   gem "jekyll-asciidoc"
   gem 'jemoji'
   gem 'jekyll-sitemap'
+  gem 'jekyll-seo-tag'
 end
 
 gem 'asciidoctor', '~> 1.5.4'
