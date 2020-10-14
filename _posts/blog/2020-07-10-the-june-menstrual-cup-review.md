@@ -33,6 +33,11 @@ categories:
 * If you can’t reach the base, push like you’re pooping and it’ll push the cup down so you can reach
 * Taking it out feels weird (since the cup mostly open), but I guess I'll get used to it?
 
+### Cleaning
+* when the cycle starts, boil the cup in water for 5 minutes
+* during the cycle, rinse with water and mild soap
+* when the cycle ends, boil the cup in water for 5 minutes, dry, and store
+
 ### Tips
 * Cut your fingernails!!!!
 
@@ -68,3 +73,5 @@ I ended up just leaving the cup in, and it eventually opened and sealed by itsel
 After a couple of days of the sitting on the toilet + punch down combo, I was able to get it in while standing in the shower with a leg propped up, but it was much more difficult for me than while sitting on the toilet.
 
 All in all, this was probably the best period I've ever had. It almost felt like I was not on my period! I felt super clean, and no dried blood smell!!
+
+I guess I'm also excited about the freedom! For example, now I don't have to worry about if I would be able to attend a friend's water sports birthday party, if I'd be able to go to a lakehouse, if I would be able to go to the onsen when we stayed at a ryokan, etc. So happy I found this! 2 cycles in, and I am a very happy customer.
