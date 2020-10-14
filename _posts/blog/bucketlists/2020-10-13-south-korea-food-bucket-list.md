@@ -14,10 +14,12 @@ See my [food bucket list](https://connieinkorea.tumblr.com/post/107430759055/foo
 * ramen in a convenience store
 * picnic with fried chicken delivery by the Han river
 * eat at a rest stop
+* buy from a banchan store
 
 ### Food
 * grilled eel (장어구이)
 * ssambap (쌈밥)
+* Egg Drop sandwich
 
 ### Street Food
 * roasted sweet potato
