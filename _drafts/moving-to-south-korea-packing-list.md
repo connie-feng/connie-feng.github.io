@@ -11,6 +11,11 @@ tags:
   - fulbright eta
 ---
 
+#### Quarantine Supplies
+* alcohol wipes
+* bed sheets
+* yoga mat
+
 #### Travel Essentials
 * passport + photocopies
 * travel pillow
@@ -20,29 +25,7 @@ tags:
 * T-money cards
 * antibacterial wipes
 * wallet
-
-#### Clothes
-* raincoat
-* casual dresses (4)
-  * striped
-  * purple
-  * geometric
-  * brown
-* tops (5)
-  * flannel shirt
-  * H&M top
-  * white tee
-  * BT21 t-shirts (2)
-* jean shorts
-* denim pants
-
-#### Undergarments
-* bras (5)
-* underwear
-* thinx shorts (4)
-* socks (5)
-  * ankle (1)
-  * quarter (4)
+* jet lag prevention pills
 
 #### Teacher Clothes
 * blazer
@@ -60,6 +43,21 @@ tags:
   * navy
 * black skirt
 * dress socks (2)
+
+#### Clothes
+* raincoat
+* casual dresses (4)
+  * striped
+  * purple
+  * geometric
+  * brown
+* tops (5)
+  * flannel shirt
+  * H&M top
+  * white tee
+  * BT21 t-shirts (2)
+* jean shorts
+* denim pants
 
 #### Cold Weather Gear
 * long down jacket
@@ -94,6 +92,14 @@ Packing a lot - I usually workout every day, and don't know how often I'll be ab
 * athletic socks (5)
   * calf (2)
   * ankle (3)
+
+#### Undergarments
+* bras (5)
+* underwear
+* thinx shorts (4)
+* socks (5)
+  * ankle (1)
+  * quarter (4)
 
 #### Sleep
 * oversized t-shirts (2)
@@ -144,7 +150,7 @@ Packing a lot - I usually workout every day, and don't know how often I'll be ab
 * cotton swabs
 * eyebrow shaver
 * menstrual cup + liners
-* baby wipes?
+* baby wipes
 * abreva
 
 #### Bath
@@ -161,15 +167,17 @@ Packing a lot - I usually workout every day, and don't know how often I'll be ab
 * portable charger
 * GoPro + tripod + accessories
 * earphones (wired + wireless)
-* HDMI cable?
+* HDMI cable
 * flash drive
-* external hard drive?
+* external hard drive
 
 #### Medicine & Supplements
+* vitamin C
 * vitamin D
 * antihistamine
 * Pepto Bismol
 * Tylenol/Advil
+* Ricola
 * insect repellent
 
 #### School Supplies
@@ -189,9 +197,9 @@ Packing a lot - I usually workout every day, and don't know how often I'll be ab
 
 #### Gifts
 * hot chocolate mix
-* stuffed animals
-* texas tea?
+* texas keychains
 * texas pecans?
+* chocolate
 
 #### Stuff to Buy when I Arrive
 * paper towel roll
