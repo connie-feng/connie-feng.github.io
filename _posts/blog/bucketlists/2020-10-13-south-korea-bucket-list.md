@@ -14,6 +14,7 @@ categories:
     * PO TID - Harry Potter Cafe
     * Le Petit Gateau - afternoon tea
     * Ggangtong Market
+    * Oryukdo Skywalk
 * Daegu
     * Seomun Night Market
     * Dongseong-ro
@@ -27,10 +28,13 @@ categories:
     * Hwangnidan-gil (Hanok cafes)
 * Jeju Island
     * Jeju Olle Walking Festival
+    * tangerine picking
 * Ilsan Lake Park
+* Pocheon
+    * Gungmangbong Recreational Forest
+* Pohang
 * Tongyeong
     * Jangsado Sea Park
-* Pohang
 * Ulleungdo
 * Nami Island
 * Daraengi Village
@@ -38,6 +42,8 @@ categories:
 * play with firecrackers on a beach at night
 * skiing/snowboarding
 * stay in a Hanok
+* temple stay
+* Naksansa
 
 # Food Bucket List
 
@@ -55,6 +61,8 @@ See my [food bucket list](https://connieinkorea.tumblr.com/post/107430759055/foo
 * Egg Drop sandwich
 * ssiat hoddeok (쌔앗호떡) - Ggangtong Market
 * bibim dangmyeon (비빔당면) - Ggangtong Market
+* chicken soup (백숙)
+* oxtail soup (꼬리 곰탕)
 
 ### Street Food
 * roasted sweet potato
