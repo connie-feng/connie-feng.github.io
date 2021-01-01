@@ -12,6 +12,8 @@
   dropdown:
   - title: "Bucket Lists"
     url: /blog/bucketlists/
+  - title: "Fulbright Korea"
+    url: /blog/fulbright/
   - title: "Concerts"
     url: /blog/concerts/
   - title: "Recipes"
