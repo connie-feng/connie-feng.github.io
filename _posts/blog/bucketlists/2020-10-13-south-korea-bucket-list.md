@@ -8,6 +8,7 @@ categories:
 ---
 
 * Seoul
+    * Bukhansan National Park
     * Ttukseom Resort
     * camping
 * Busan
@@ -15,6 +16,7 @@ categories:
     * Le Petit Gateau - afternoon tea
     * Ggangtong Market
     * Oryukdo Skywalk
+    * Gamcheon Culture Village
 * Daegu
     * Seomun Night Market
     * Dongseong-ro
@@ -33,6 +35,8 @@ categories:
 * Pocheon
     * Gungmangbong Recreational Forest
 * Pohang
+* Suncheon
+    * Seungseongyo
 * Tongyeong
     * Jangsado Sea Park
 * Ulleungdo
