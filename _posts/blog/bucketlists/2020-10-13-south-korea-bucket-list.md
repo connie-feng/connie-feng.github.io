@@ -5,6 +5,8 @@ date:   2020-10-13
 categories:
   - blog
   - bucketlists
+tags:
+  - fulbright eta
 ---
 
 * Seoul
