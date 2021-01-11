@@ -12,11 +12,15 @@ tags:
 
 This packing list has more winter clothes because I will be arriving in Korea in January. :snowflake:
 
-I am trying very hard to not pack too much clothes! That was the biggest mistake I made when packing for study abroad in Korea. The sizing in Korea works for me, so I can buy more clothes there if needed. These are the questions I am asking myself to try and narrow down my list:
+I am trying very hard to not pack too much clothes! That was the biggest mistake I made when packing for study abroad in Korea. The sizing in Korea sometimes works for me, so I can buy more clothes there if needed. These are the questions I am asking myself to try and narrow down my list:
 1. Do I feel comfortable and confident in these clothes?
 1. Do these clothes air dry easily? (Most homes will have a washer but no dryer.)
 
 I was also able to remove things from my packing list by checking if Gmarket or Coupang (kind of like the Amazon of Korea) sell them for an acceptable price.
+
+**I will come back and edit this with things I didn't need to bring and things I wish I had brought!**
+
+:100: - very happy I brought this
 
 #### Travel Essentials
 * passport + visa + photocopies
@@ -31,10 +35,13 @@ I was also able to remove things from my packing list by checking if Gmarket or 
 * T-money cards (Korean transportation card)
 
 #### Quarantine/PPE Supplies
-As soon as I arrive in Korea, I have to do a mandatory 2 week quarantine at a facility. I am bringing some extra supplies for that.
+As soon as I arrive in Korea, I have to do a mandatory 2 week quarantine. I am bringing some extra supplies to make it more comfortable since I will not be allowed to leave the dorm room.
 * alcohol wipes
 * face shields
-* sleeping bag liner - I will feel more at ease if I don't sleep directly on sheets that other people used at the quarantine facility. I also think this will be useful when I travel!
+* bed sheet - For peace of mind when sleeping at the quarantine facility.
+* clothes hangers
+* paper towel roll :100:
+* mug
 
 #### Teacher Clothes
 Fulbright asks us to bring business casual clothes for teaching and for Fulbright activities. I've read that a lot of schools have a more casual dress code, but I would rather be a little overdressed than a little underdressed. :smile:
@@ -60,6 +67,7 @@ Fulbright asks us to bring business casual clothes for teaching and for Fulbrigh
   * adidas
   * blue & flower
   * Chimmy tee
+* jean pants
 * casual dresses (4)
   * brown
   * geometric
@@ -67,14 +75,15 @@ Fulbright asks us to bring business casual clothes for teaching and for Fulbrigh
   * striped
 
 #### Cold Weather Gear
+* beanie
 * long down jacket
 * hoodie
 * sweater (white & blue)
 * Heattech
-  * turtleneck
-  * long sleeve shirt
+  * long sleeve shirts (3)
   * sleeveless shirt
   * black tights
+* GD long sleeve shirt
 * scarf
 * gloves
 
@@ -84,12 +93,12 @@ Fulbright asks us to bring business casual clothes for teaching and for Fulbrigh
 * swimsuit + rash guard
 
 #### Athletic Gear
-Packing a lot - I usually workout every day, and don't know how often I'll be able to do laundry if I'm placed in a homestay. Clothes might also take a very long time to air dry (it can get very humid in Korea).
+Packing a lot - I usually workout every day, and don't know how often I'll be able to do laundry if I'm placed in a homestay. Clothes might also take a long time to air dry (it can get very humid in Korea).
 * resistance band
 * headbands (2)
 * sports bras (3)
 * dry-fit shirts (2)
-* exercise shorts (5)
+* shorts (5)
 * leggings (2)
 
 #### Undergarments
@@ -121,20 +130,17 @@ Packing a lot - I usually workout every day, and don't know how often I'll be ab
 #### Accessories
 * sun hat
 * baseball cap
-* umbrella
-* sunglasses
 * belt
 
 #### Bags
 * backpack
 * backpack purse
-* foldable eco bag (1)
-* large trash bag (1)
-* plastic bags (2)
+* foldable eco bag (2)
 
 #### Toiletries
 * travel shampoo
 * baby lotion
+* eczema lotion :100:
 * toothbrush + charger + replacement heads
 * toothpaste
 * floss picks
@@ -157,12 +163,11 @@ Packing a lot - I usually workout every day, and don't know how often I'll be ab
 * quick dry towels (face + hair + body)
 * large bath towel
 * exfoliating towel
-* shower cap
 
 #### Electronics
 * phone + charger
 * laptop + charger
-* power adapters
+* power adapters (4)
 * power strip
 * portable charger
 * GoPro + tripod + accessories
@@ -189,26 +194,17 @@ Packing a lot - I usually workout every day, and don't know how often I'll be ab
 * spare glasses
 * water bottle + straw brush
 * laundry bag
-* command strips (3)
 * safety pins (6)
-* tape measurer
+* measuring tape
+* hot chocolate mix
 
 #### Gifts
 * texas keychains
 * chocolate
 * gift bags
-* hot chocolate mix
 
-#### Stuff to Buy when I Arrive
-* paper towel roll
+## Things I wish I had brought
+* tea for quarantine!!!!
 
-## Organization
-
-### Wear to Airport
-* long down jacket
-* boots
-
-### Carry On
-What I'll need at orientation in case my checked baggage gets lost + stuff that should never be in checked bags.
-
-### Checked Baggage
+## Things I didn't need to bring
+* foldable eco bag (I got 3 as part of the Fulbright welcome package...)
