@@ -2,7 +2,7 @@
 layout: page
 sitemap: false
 title:  "Moving to South Korea Packing List (Fulbright English Teaching Assistant)"
-date:   2008-12-02
+date:   2021-01-09
 categories:
   - blog
   - fulbright
