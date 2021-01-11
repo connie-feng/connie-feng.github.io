@@ -13,6 +13,7 @@ tags:
     * Bukhansan National Park
     * Ttukseom Resort
     * camping
+    * KBBQ at Majang Meat Market
 * Busan
     * PO TID - Harry Potter Cafe
     * Le Petit Gateau - afternoon tea
