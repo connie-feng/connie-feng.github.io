@@ -65,7 +65,7 @@ See my [food bucket list](https://connieinkorea.tumblr.com/post/107430759055/foo
 ### Food
 * grilled eel (장어구이)
 * ssambap (쌈밥)
-* Egg Drop sandwich
+* ~~Egg Drop sandwich~~ - 2021/01/25
 * ssiat hoddeok (쌔앗호떡) - Ggangtong Market
 * bibim dangmyeon (비빔당면) - Ggangtong Market
 * chicken soup (백숙)
