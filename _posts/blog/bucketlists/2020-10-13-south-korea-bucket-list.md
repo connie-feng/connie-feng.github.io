@@ -34,6 +34,7 @@ tags:
 * Jeju Island
     * Jeju Olle Walking Festival
     * tangerine picking
+    * Biyangdo
 * Ilsan Lake Park
 * Pocheon
     * Gungmangbong Recreational Forest
