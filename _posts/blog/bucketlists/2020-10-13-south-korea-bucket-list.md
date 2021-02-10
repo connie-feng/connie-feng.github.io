@@ -35,6 +35,8 @@ tags:
     * Jeju Olle Walking Festival
     * tangerine picking
     * Biyangdo
+* Jindo
+    * Jindo Sea Parting Festival
 * Ilsan Lake Park
 * Pocheon
     * Gungmangbong Recreational Forest
