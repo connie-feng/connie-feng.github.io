@@ -75,4 +75,4 @@ See my [food bucket list](https://connieinkorea.tumblr.com/post/107430759055/foo
 * oxtail soup (꼬리 곰탕)
 
 ### Street Food
-* roasted sweet potato
+* ~~roasted sweet potato~~ - 2021/01/12
