@@ -72,7 +72,7 @@ See my [food bucket list](https://connieinkorea.tumblr.com/post/107430759055/foo
 * ssiat hoddeok (쌔앗호떡) - Ggangtong Market
 * bibim dangmyeon (비빔당면) - Ggangtong Market
 * chicken soup (백숙)
-* oxtail soup (꼬리 곰탕)
+* ~~oxtail soup (꼬리 곰탕)~~ - 2021/02/28
 
 ### Street Food
 * ~~roasted sweet potato~~ - 2021/01/12
