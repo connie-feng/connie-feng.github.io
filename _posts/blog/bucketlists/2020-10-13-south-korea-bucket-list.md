@@ -46,6 +46,7 @@ tags:
 * Tongyeong
     * Jangsado Sea Park
 * Ulleungdo
+* Wonju
 * Nami Island
 * Daraengi Village
 * rail biking
