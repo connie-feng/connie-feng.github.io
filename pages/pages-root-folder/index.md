@@ -33,10 +33,10 @@ header:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
+<!-- callforaction:
   url: https://www.youtube.com/theconnister/videos
   text: Visit my YouTube channel ›
-  style: alert
+  style: alert -->
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
