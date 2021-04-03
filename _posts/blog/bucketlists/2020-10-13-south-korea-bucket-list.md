@@ -55,7 +55,7 @@ tags:
 * play with firecrackers on a beach at night
 * skiing/snowboarding
 * stay in a Hanok
-* temple stay
+* temple stay (possibly 미황사 in 해남)
 * Naksansa
 
 # Food Bucket List
