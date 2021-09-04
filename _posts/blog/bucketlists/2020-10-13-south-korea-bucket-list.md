@@ -54,7 +54,7 @@ tags:
 * rail biking
 * play with firecrackers on a beach at night
 * skiing/snowboarding
-* stay in a Hanok
+* ~~stay in a Hanok~~ - 2021/07/03
 * temple stay (possibly 미황사 in 해남)
 * Naksansa
 
@@ -66,11 +66,11 @@ See my [food bucket list](https://connieinkorea.tumblr.com/post/107430759055/foo
 * ramen in a convenience store
 * picnic with fried chicken delivery by the Han river
 * eat at a rest stop
-* buy from a banchan store
+* ~~buy from a banchan store~~ - 2021/06/14
 
 ### Food
 * grilled eel (장어구이)
-* ssambap (쌈밥)
+* ~~ssambap (쌈밥)~~ - 2021/06/26
 * ~~Egg Drop sandwich~~ - 2021/01/25
 * ssiat hoddeok (쌔앗호떡) - Ggangtong Market
 * bibim dangmyeon (비빔당면) - Ggangtong Market
