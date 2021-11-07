@@ -24,11 +24,11 @@ tags:
     * Seomun Night Market
     * Dongseong-ro
 * Damyang
-    * Juknokwon
+    * ~~Juknokwon~~ - 2021/10/19
 * Gangneung
     * Jumunjin Beach
 * Gwangju
-    * Hope World (Chungjangro)
+    * ~~Hope World (Chungjangro)~~ - 2021/10/04
 * Gyeongju
     * Hwangnidan-gil (Hanok cafes)
 * Jeju Island
@@ -51,7 +51,7 @@ tags:
     * Hyangilam
 * Nami Island
 * Daraengi Village
-* rail biking
+* ~~rail biking~~ - 2021/10/20
 * play with firecrackers on a beach at night
 * skiing/snowboarding
 * ~~stay in a Hanok~~ - 2021/07/03
