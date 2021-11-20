@@ -14,12 +14,11 @@ tags:
     * Ttukseom Resort
     * camping
     * KBBQ at Majang Meat Market
-* Busan
     * PO TID - Harry Potter Cafe
-    * Le Petit Gateau - afternoon tea
-    * Ggangtong Market
+* Busan
+    * ~~Ggangtong Market~~ - 2021/11/19
     * Oryukdo Skywalk
-    * Gamcheon Culture Village
+    * ~~Gamcheon Culture Village~~ - 2021/11/19
 * Daegu
     * Seomun Night Market
     * Dongseong-ro
@@ -57,6 +56,7 @@ tags:
 * ~~stay in a Hanok~~ - 2021/07/03
 * temple stay (possibly 미황사 in 해남)
 * Naksansa
+* windsurfing (possibly Songjeong Beach in Busan)
 
 # Food Bucket List
 
@@ -72,8 +72,8 @@ See my [food bucket list](https://connieinkorea.tumblr.com/post/107430759055/foo
 * grilled eel (장어구이)
 * ~~ssambap (쌈밥)~~ - 2021/06/26
 * ~~Egg Drop sandwich~~ - 2021/01/25
-* ssiat hoddeok (쌔앗호떡) - Ggangtong Market
-* bibim dangmyeon (비빔당면) - Ggangtong Market
+* ~~ssiat hoddeok (쌔앗호떡) - Ggangtong Market~~ - 2021/11/19
+* ~~bibim dangmyeon (비빔당면) - Ggangtong Market~~ - 2021/11/19
 * chicken soup (백숙)
 * ~~oxtail soup (꼬리 곰탕)~~ - 2021/02/28
 
