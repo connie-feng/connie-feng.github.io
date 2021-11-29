@@ -17,7 +17,7 @@ tags:
     * PO TID - Harry Potter Cafe
 * Busan
     * ~~Ggangtong Market~~ - 2021/11/19
-    * Oryukdo Skywalk
+    * ~~Oryukdo Skywalk~~ - 2021/11/21
     * ~~Gamcheon Culture Village~~ - 2021/11/19
 * Daegu
     * Seomun Night Market
@@ -65,7 +65,7 @@ See my [food bucket list](https://connieinkorea.tumblr.com/post/107430759055/foo
 ### Food Experiences
 * ramen in a convenience store
 * picnic with fried chicken delivery by the Han river
-* eat at a rest stop
+* ~~eat at a rest stop~~ - 2021/11/21
 * ~~buy from a banchan store~~ - 2021/06/14
 
 ### Food
