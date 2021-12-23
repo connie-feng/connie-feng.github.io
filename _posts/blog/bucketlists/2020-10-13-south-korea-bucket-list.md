@@ -15,6 +15,7 @@ tags:
     * camping
     * KBBQ at Majang Meat Market
     * PO TID - Harry Potter Cafe
+    * nighttime palace tour
 * Busan
     * ~~Ggangtong Market~~ - 2021/11/19
     * ~~Oryukdo Skywalk~~ - 2021/11/21
@@ -69,7 +70,7 @@ See my [food bucket list](https://connieinkorea.tumblr.com/post/107430759055/foo
 * ~~buy from a banchan store~~ - 2021/06/14
 
 ### Food
-* grilled eel (장어구이)
+* ~~grilled eel (장어구이)~~ - 2021/12/06
 * ~~ssambap (쌈밥)~~ - 2021/06/26
 * ~~Egg Drop sandwich~~ - 2021/01/25
 * ~~ssiat hoddeok (쌔앗호떡) - Ggangtong Market~~ - 2021/11/19
