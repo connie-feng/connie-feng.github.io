@@ -22,7 +22,7 @@ tags:
     * ~~Gamcheon Culture Village~~ - 2021/11/19
 * Daegu
     * Seomun Night Market
-    * Dongseong-ro
+    * ~~Dongseong-ro~~ - 2022/01/07
 * Damyang
     * ~~Juknokwon~~ - 2021/10/19
 * Gangneung
