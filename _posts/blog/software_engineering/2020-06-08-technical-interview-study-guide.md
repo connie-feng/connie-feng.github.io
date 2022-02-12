@@ -24,8 +24,9 @@ teaser: "WIP: Building a study guide for when I need to start doing tech intervi
 * if there are multiple inputs, don't use N for all of them!
 
 2. Space
-* TODO
-
+* O(N) space - creating array of size n
+* O(N^2) space - creating a two-dimensional array of size NxN
+* [stack space in recursive calls](https://py3.codeskulptor.org/#user307_IR2jhP5XNx_0.py){:target="_blank"}
 
 #### Stack vs. Heap Allocation
 * heap used when amount of memory required is not known in advance
@@ -35,7 +36,6 @@ teaser: "WIP: Building a study guide for when I need to start doing tech intervi
 * bit manipulation
 * recursion
 * dynamic programming
-
 
 #### Compiled vs. Interpreted Language
 * compiled language - can optimize, makes the code more efficient
@@ -68,8 +68,8 @@ teaser: "WIP: Building a study guide for when I need to start doing tech intervi
 * DFS vs. BFS
 * abstract vs. interface
 * dynamic programming
-* [longest palindrome](http://www.codeskulptor.org/#user40_9kU6XL8njr_1.py)
-* [pascal's triangle](http://www.codeskulptor.org/#user40_RUTIiY3yBb_1.py)
-* [fibonacci](http://www.codeskulptor.org/#user40_5HpDWjI6xF_1.py)
-* [roman numerals](https://py3.codeskulptor.org/#user305_bZoAtXI4Pd_0.py)
+* [longest palindrome](http://www.codeskulptor.org/#user40_9kU6XL8njr_1.py){:target="_blank"}
+* [pascal's triangle](http://www.codeskulptor.org/#user40_RUTIiY3yBb_1.py){:target="_blank"}
+* [fibonacci](http://www.codeskulptor.org/#user40_5HpDWjI6xF_1.py){:target="_blank"}
+* [roman numerals](https://py3.codeskulptor.org/#user305_bZoAtXI4Pd_0.py){:target="_blank"}
 * much much more
