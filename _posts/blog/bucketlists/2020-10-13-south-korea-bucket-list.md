@@ -31,6 +31,10 @@ tags:
     * ~~Hope World (Chungjangro)~~ - 2021/10/04
 * Gyeongju
     * Hwangnidan-gil (Hanok cafes)
+* Jangseong
+    * Baegyangsa
+    * Jangseong Arts and Culture Park
+    * Jangseong Cypress Forest of Cure
 * Jeju Island
     * Jeju Olle Walking Festival
     * tangerine picking
