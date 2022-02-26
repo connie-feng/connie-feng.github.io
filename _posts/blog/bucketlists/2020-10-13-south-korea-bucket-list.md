@@ -57,7 +57,8 @@ tags:
 * Daraengi Village
 * ~~rail biking~~ - 2021/10/20
 * play with firecrackers on a beach at night
-* skiing/snowboarding
+* ~~skiing~~ - 2022/02/26
+* snowboarding
 * ~~stay in a Hanok~~ - 2021/07/03
 * temple stay (possibly 미황사 in 해남)
 * Naksansa

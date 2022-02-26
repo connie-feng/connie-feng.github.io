@@ -51,6 +51,14 @@ teaser: "WIP: Building a study guide for when I need to start doing tech intervi
 * heaps
 * hashmaps
 
+
+#### Hashmaps
+* simple implementation: array of linked lists + hash code function
+* O(1) lookup time
+
+#### Arrays (resizable)
+* O(1) insertion time (amortized)
+
 #### Array vs. Linked List
 * arrays are good for random access
 * linked lists are good for adding or removing items (array has to resize and copy over), or when you're not sure how many items will be in the list
@@ -63,6 +71,10 @@ teaser: "WIP: Building a study guide for when I need to start doing tech intervi
 * binary search
 * merge sort
 * quick sort
+* BUD optimization (bottlenecks, unnecessary work, duplicated work)
+
+## Notes
+* point out any error checking that you'd do
 
 #### TODO
 * DFS vs. BFS
@@ -73,3 +85,8 @@ teaser: "WIP: Building a study guide for when I need to start doing tech intervi
 * [fibonacci](http://www.codeskulptor.org/#user40_5HpDWjI6xF_1.py){:target="_blank"}
 * [roman numerals](https://py3.codeskulptor.org/#user305_bZoAtXI4Pd_0.py){:target="_blank"}
 * much much more
+
+## Questions
+* how would you describe the company culture?
+
+
