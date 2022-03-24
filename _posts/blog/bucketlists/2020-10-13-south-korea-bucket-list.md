@@ -52,7 +52,7 @@ tags:
 * Ulleungdo
 * Wonju
 * Yeosu
-    * Hyangilam
+    * ~~Hyangilam~~ - 2022/03/12
 * Nami Island
 * Daraengi Village
 * ~~rail biking~~ - 2021/10/20
