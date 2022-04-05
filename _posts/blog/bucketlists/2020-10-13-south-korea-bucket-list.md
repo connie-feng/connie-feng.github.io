@@ -46,7 +46,7 @@ tags:
     * Gungmangbong Recreational Forest
 * Pohang
 * Suncheon
-    * Seungseongyo
+    * ~~Seungseongyo~~ - 2022/4/2
 * Tongyeong
     * Jangsado Sea Park
 * Ulleungdo
