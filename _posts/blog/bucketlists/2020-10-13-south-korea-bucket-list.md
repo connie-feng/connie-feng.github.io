@@ -11,7 +11,7 @@ tags:
 
 * Seoul
     * Bukhansan National Park
-    * Ttukseom Resort
+    * ~~Ttukseom Resort~~ - 2022/4/29
     * camping
     * KBBQ at Majang Meat Market
     * PO TID - Harry Potter Cafe
@@ -69,7 +69,7 @@ See my [food bucket list](https://connieinkorea.tumblr.com/post/107430759055/foo
 
 ### Food Experiences
 * ramen in a convenience store
-* picnic with fried chicken delivery by the Han river
+* ~~picnic with fried chicken delivery by the Han river~~ - 2022/4/29
 * ~~eat at a rest stop~~ - 2021/11/21
 * ~~buy from a banchan store~~ - 2021/06/14
 
