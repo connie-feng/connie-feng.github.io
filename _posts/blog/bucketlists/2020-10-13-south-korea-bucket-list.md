@@ -15,7 +15,7 @@ tags:
     * camping
     * KBBQ at Majang Meat Market
     * PO TID - Harry Potter Cafe
-    * nighttime palace tour
+    * ~~nighttime palace tour~~ - 2022/4/28
 * Busan
     * ~~Ggangtong Market~~ - 2021/11/19
     * ~~Oryukdo Skywalk~~ - 2021/11/21
