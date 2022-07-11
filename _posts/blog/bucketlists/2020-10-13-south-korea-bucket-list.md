@@ -25,12 +25,15 @@ tags:
     * ~~Dongseong-ro~~ - 2022/01/07
 * Damyang
     * ~~Juknokwon~~ - 2021/10/19
+    * 용마루길
 * Gangneung
     * Jumunjin Beach
 * Gwangju
     * ~~Hope World (Chungjangro)~~ - 2021/10/04
 * Gyeongju
     * Hwangnidan-gil (Hanok cafes)
+* Hwasun
+    * Selyangji (세량지)
 * Jangseong
     * Baegyangsa
     * Jangseong Arts and Culture Park
@@ -50,6 +53,10 @@ tags:
     * Jangsado Sea Park
 * Ulleungdo
 * Wonju
+* Yeongam
+    * 100리 벚꽃길
+* Yeonggwang
+    * Baeksu Costal Road (백수해안도로)
 * Yeosu
     * ~~Hyangilam~~ - 2022/03/12
 * Nami Island
