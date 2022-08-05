@@ -27,7 +27,7 @@ tags:
     * ~~Juknokwon~~ - 2021/10/19
     * 용마루길
 * Gangneung
-    * Jumunjin Beach
+    * ~~Jumunjin Beach~~ - 2022/08/03
 * Gwangju
     * ~~Hope World (Chungjangro)~~ - 2021/10/04
 * Gyeongju
@@ -62,13 +62,13 @@ tags:
 * Nami Island
 * Daraengi Village
 * ~~rail biking~~ - 2021/10/20
-* play with firecrackers on a beach at night
+* ~~play with firecrackers on a beach at night~~ - 2022/08/04
 * ~~skiing~~ - 2022/02/26
 * snowboarding
 * ~~stay in a Hanok~~ - 2021/07/03
 * temple stay (possibly 미황사 in 해남)
-* Naksansa
-* windsurfing (possibly Songjeong Beach in Busan)
+* ~~Naksansa~~ - 2022/08/05
+* ~~windsurfing~~ - 2022/07/29
 
 # Food Bucket List
 
