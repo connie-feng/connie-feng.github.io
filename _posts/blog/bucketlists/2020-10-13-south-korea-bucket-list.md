@@ -21,7 +21,7 @@ tags:
     * ~~Oryukdo Skywalk~~ - 2021/11/21
     * ~~Gamcheon Culture Village~~ - 2021/11/19
 * Daegu
-    * Seomun Night Market
+    * ~~Seomun Night Market~~ - 2022/08/13
     * ~~Dongseong-ro~~ - 2022/01/07
 * Damyang
     * ~~Juknokwon~~ - 2021/10/19
