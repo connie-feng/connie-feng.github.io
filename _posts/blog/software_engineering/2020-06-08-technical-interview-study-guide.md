@@ -68,9 +68,9 @@ teaser: "WIP: Building a study guide for when I need to start doing tech intervi
 ## Algorithms
 * BFS
 * DFS
-* binary search
-* merge sort
-* quick sort
+* [binary search](http://tpcg.io/ZNXRVT){:target="_blank"}
+* [merge sort](http://tpcg.io/K5POW9){:target="_blank"}
+* [quick sort](http://tpcg.io/PSACYA){:target="_blank"}
 * BUD optimization (bottlenecks, unnecessary work, duplicated work)
 
 ## Notes
@@ -87,6 +87,7 @@ teaser: "WIP: Building a study guide for when I need to start doing tech intervi
 * much much more
 
 ## Questions
-* how would you describe the company culture?
+* How would you describe the company culture?
+* What does a typical day look like for you?
 
 
