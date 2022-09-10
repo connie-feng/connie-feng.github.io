@@ -87,7 +87,9 @@ teaser: "WIP: Building a study guide for when I need to start doing tech intervi
 * much much more
 
 ## Questions
+* What are your favorite things about working here?
 * How would you describe the company culture?
 * What does a typical day look like for you?
-
-
+* What typical meetings would I be expected to attend?
+* What is your expectation for a successful candidate to get up to speed?
+* What did the company do during the 2020 pandemic to help manage and support employees?
