@@ -40,7 +40,7 @@ tags:
     * Jangseong Cypress Forest of Cure
 * Jeju Island
     * Jeju Olle Walking Festival
-    * tangerine picking
+    * ~~tangerine picking~~ - 11/18/2022
     * Biyangdo
 * ~~Jindo~~ - 2022/4/9
 * Ilsan Lake Park
