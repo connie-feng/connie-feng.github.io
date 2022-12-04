@@ -86,7 +86,7 @@ See my [food bucket list](https://connieinkorea.tumblr.com/post/107430759055/foo
 * ~~Egg Drop sandwich~~ - 2021/01/25
 * ~~ssiat hoddeok (쌔앗호떡) - Ggangtong Market~~ - 2021/11/19
 * ~~bibim dangmyeon (비빔당면) - Ggangtong Market~~ - 2021/11/19
-* chicken soup (백숙)
+* ~~chicken soup (백숙)~~ - 2022/12/04
 * ~~oxtail soup (꼬리 곰탕)~~ - 2021/02/28
 
 ### Street Food
