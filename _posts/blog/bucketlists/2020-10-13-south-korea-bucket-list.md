@@ -31,7 +31,7 @@ tags:
 * Gwangju
     * ~~Hope World (Chungjangro)~~ - 2021/10/04
 * Gyeongju
-    * Hwangnidan-gil (Hanok cafes)
+    * ~~Hwangnidan-gil (Hanok cafes)~~ - 2023/04/24
 * Hwasun
     * Selyangji (세량지)
 * Jangseong
@@ -60,7 +60,7 @@ tags:
 * Yeosu
     * ~~Hyangilam~~ - 2022/03/12
 * Nami Island
-* Daraengi Village
+* ~~Daraengi Village~~ - 2023/09/09
 * ~~rail biking~~ - 2021/10/20
 * ~~play with firecrackers on a beach at night~~ - 2022/08/04
 * ~~skiing~~ - 2022/02/26
