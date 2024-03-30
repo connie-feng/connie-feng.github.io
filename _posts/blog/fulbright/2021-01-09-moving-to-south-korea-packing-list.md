@@ -76,10 +76,10 @@ Fulbright asks us to bring business casual clothes for teaching and for Fulbrigh
 
 #### Cold Weather Gear
 * beanie
-* long down jacket
+* long down jacket :100:
 * hoodie
 * sweater (white & blue)
-* Heattech
+* Heattech :100:
   * long sleeve shirts (3)
   * sleeveless shirt
   * black tights
@@ -90,7 +90,7 @@ Fulbright asks us to bring business casual clothes for teaching and for Fulbrigh
 #### Warm Weather Gear
 * Airism tank tops (2)
 * jean shorts
-* swimsuit + rash guard
+* swimsuit + rash guard :100:
 
 #### Athletic Gear
 Packing a lot - I usually workout every day, and don't know how often I'll be able to do laundry if I'm placed in a homestay. Clothes might also take a long time to air dry (it can get very humid in Korea).
@@ -122,13 +122,13 @@ Packing a lot - I usually workout every day, and don't know how often I'll be ab
   * everyday
   * workout
   * waterproof
-* shower shoes
+* shower shoes :100:
 * indoor slippers
 * outdoor slippers
 * boots
 
 #### Accessories
-* sun hat
+* sun hat :100:
 * baseball cap
 * belt
 
@@ -145,7 +145,7 @@ Packing a lot - I usually workout every day, and don't know how often I'll be ab
 * toothpaste
 * floss picks
 * Curology (face wash + moisturizer + acne medication)
-* deodorant
+* deodorant :100:
 * hand sanitizer
 * wax strips
 * nail clippers + file
@@ -182,7 +182,7 @@ Packing a lot - I usually workout every day, and don't know how often I'll be ab
 * antihistamine
 * Pepto Bismol
 * Tylenol/Advil
-* Ricola
+* Ricola :100:
 * insect repellent
 
 #### School Supplies
@@ -199,7 +199,7 @@ Packing a lot - I usually workout every day, and don't know how often I'll be ab
 * hot chocolate mix
 
 #### Gifts
-* texas keychains
+* texas keychains :100:
 * chocolate
 * gift bags
 
