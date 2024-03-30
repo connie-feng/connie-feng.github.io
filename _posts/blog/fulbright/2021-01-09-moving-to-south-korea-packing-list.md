@@ -208,3 +208,5 @@ Packing a lot - I usually workout every day, and don't know how often I'll be ab
 
 ## Things I didn't need to bring
 * foldable eco bag (I got 3 as part of the Fulbright welcome package...)
+* so much business casual clothes (this depends on your school, but we had casual dress so the only time I wore business casual was for Fulbright events)
+* jet lag prevention pills (didn't work AT ALL)
