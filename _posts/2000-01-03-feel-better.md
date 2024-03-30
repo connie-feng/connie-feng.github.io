@@ -33,6 +33,7 @@ teaser: I always forget things that will make me feel better when I'm in the mom
 * Everyone has a different journey.
 * Don't let someone you don't know/like affect you so negatively.
 * If it is something you have to do anyways, try to do your best with a willing heart.
+* You're not better than anyone, but no one is better than you. - VPS
 
 ### Money
 * You win some, you lose some.
