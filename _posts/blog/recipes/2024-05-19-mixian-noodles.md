@@ -5,10 +5,10 @@ date:   2024-05-19
 categories:
   - blog
   - recipes
-iframe: "<iframe width='970' height='546' src='https://www.youtube.com/embed/YEGDs1jRsy4 ' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='https://www.youtube.com/embed/iQN4-pR19DY ' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
 video:
-  embedURL: "https://www.youtube.com/embed/YEGDs1jRsy4 "
-  contentURL: "https://www.youtube.com/watch?v=YEGDs1jRsy4 "
+  embedURL: "https://www.youtube.com/embed/iQN4-pR19DY "
+  contentURL: "https://www.youtube.com/watch?v=iQN4-pR19DY "
 ---
 
 ### Ingredients
