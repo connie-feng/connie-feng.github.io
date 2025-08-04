@@ -14,94 +14,96 @@ video:
 
 I followed the Tripped 3-day packing method!
 
+Items with ~ next to them mean nice to have, will pack if there's room!
+
 ### Packing List
 #### Travel Day
-- [x] ~Hair towel
-- [x] Heatless curls
-- [x] Meds
-    - [x] Eyelash serum
-    - [x] Nail clippers
-    - [x] Tweezers
-    - [x] Face sunscreen
-    - [x] Moisturizer
-    - [x] Eye cream
-    - [x] Eczema cream
-    - [x] Melatonin
-    - [x] Allergy
-    - [x] Advil/Tylenol
-    - [x] Pepto
-    - [x] Vitamin C
-    - [x] Anti sea sickness
-- [x] Toiletries
-    - [x] Toothbrush
-    - [x] Dryer sheets
-    - [x] Eye drops
-    - [x] Black scrunchie
-    - [x] Loofah
-    - [x] Aloe vera masks
-    - [x] Floss
-    - [x] Hair oil
-    - [x] Laundry net
-    - [x] Menstrual cup
-- [x] Hair brush
-- [x] Phone car mount
-- [x] Stanley water bottle
-- [x] Kindle + charger
-- [x] AirPods
-- [x] Wallet + ID
-- [x] Lululemon sling bag
-- [x] Driving sunglasses
-- [x] Sunglasses
-- [x] Eye mask
-- [x] Neck pillow
-- [x] Laundry bag
-- [x] Travel slippers
-- [x] Alcohol wipes
-- [x] Running shoes
-- [x] Compression socks
-- [x] Airism UV protect jacket
-- [x] Biker shorts
-- [x] Uniqlo black seamless underwear
-- [x] Black puma workout top
-- [x] Pajamas
+- ~Hair towel
+- Heatless curls
+- Meds
+    - Eyelash serum
+    - Nail clippers
+    - Tweezers
+    - Face sunscreen
+    - Moisturizer
+    - Eye cream
+    - Eczema cream
+    - Melatonin
+    - Allergy
+    - Advil/Tylenol
+    - Pepto
+    - Vitamin C
+    - Anti sea sickness
+- Toiletries
+    - Toothbrush
+    - Dryer sheets
+    - Eye drops
+    - Black scrunchie
+    - Loofah
+    - Aloe vera masks
+    - Floss
+    - Hair oil
+    - Laundry net
+    - Menstrual cup
+- Hair brush
+- Phone car mount
+- Stanley water bottle
+- Kindle + charger
+- AirPods
+- Wallet + ID
+- Lululemon sling bag
+- Driving sunglasses
+- Sunglasses
+- Eye mask
+- Neck pillow
+- Laundry bag
+- Travel slippers
+- Alcohol wipes
+- Running shoes
+- Compression socks
+- Airism UV protect jacket
+- Biker shorts
+- Uniqlo black seamless underwear
+- Black puma workout top
+- Pajamas
 
 #### Essential Day - Wedding
-- [x] Cotton balls + baby oil
-- [x] Make up remover wipes (witch hazel)
-- [x] Purple Korean purse
-- [x] Waterproof sandals
-- [x] Long earthy skirt
-- [x] Uniqlo nude slip shorts
-- [x] Black one-shoulder top
-- [x] Nippies
+- Cotton balls + baby oil
+- Make up remover wipes (witch hazel)
+- Purple Korean purse
+- Waterproof sandals
+- Long earthy skirt
+- Uniqlo nude slip shorts
+- Black one-shoulder top
+- Nippies
 
 #### Every day - exploring
-- [x] Sunscreen stick
-- [x] SPF lip balm
-- [x] ~Silver slides
-- [x] Sun hat
-- [x] Black tote
-- [x] Cooling towel
-- [x] Sunbrella
-- [x] Brown hiking skort
-- [x] Brown sports bra
-- [x] Black bra
-- [x] White tank top
-- [x] Hawaiian shirt
-- [x] Pink striped top
-- [x] Here comes the sun t-shirt
-- [x] ~Goggles
-- [x] Bikini
-- [x] Swimming shorts
-- [x] Rash guard
-- [x] Waterproof phone case
-- [x] Gopro waterproof handle
+- Sunscreen stick
+- SPF lip balm
+- ~Silver slides
+- Sun hat
+- Black tote
+- Cooling towel
+- Sunbrella
+- Brown hiking skort
+- Brown sports bra
+- Black bra
+- White tank top
+- Hawaiian shirt
+- Pink striped top
+- Here comes the sun t-shirt
+- ~Goggles
+- Bikini
+- Swimming shorts
+- Rash guard
+- Waterproof phone case
+- Gopro waterproof handle
 
 #### Electronics
-- [x] Phone charger
-- [x] Laptop
-- [x] Laptop charger
-- [x] Gopro - switch to waterproof cover
-    - [x] Mic
-    - [x] batteries
-    - [x] charger
+- Phone charger
+- Laptop
+- Laptop charger
+- Gopro - switch to waterproof cover
+    - Mic
+    - batteries
+    - charger
