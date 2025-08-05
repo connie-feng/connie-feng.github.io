@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: video
 title:  "Hawaii Packing List (2 weeks in Oahu, carry-on only)"
 date:   2025-05-28
 categories:
