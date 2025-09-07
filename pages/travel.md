@@ -10,6 +10,9 @@ permalink: "blog/travel/"
 <h3>Hawaii</h3>
 {% include list-posts entries='1000' offset='0' category='hawaii' %}
 
+<h3>Las Vegas</h3>
+{% include list-posts entries='1000' offset='0' category='vegas' %}
+
 <h3>Japan</h3>
 {% include list-posts entries='1000' offset='0' category='japan' %}
 
