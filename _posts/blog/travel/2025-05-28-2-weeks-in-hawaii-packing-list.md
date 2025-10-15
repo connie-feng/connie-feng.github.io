@@ -5,6 +5,7 @@ date:   2025-05-28
 categories:
   - blog
   - travel
+  - packing
   - hawaii
 iframe: "<iframe width='970' height='546' src='https://www.youtube.com/embed/G8QXfTVuF2s  ' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>"
 video:

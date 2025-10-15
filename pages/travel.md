@@ -4,14 +4,14 @@ title: "Travel"
 permalink: "blog/travel/"
 ---
 
+<h3>Packing Lists</h3>
+{% include list-posts entries='1000' offset='0' category='packing' %}
+
 <h3>Costa Rica</h3>
 {% include list-posts entries='1000' offset='0' category='costa_rica' %}
 
 <h3>Hawaii</h3>
 {% include list-posts entries='1000' offset='0' category='hawaii' %}
-
-<h3>Las Vegas</h3>
-{% include list-posts entries='1000' offset='0' category='vegas' %}
 
 <h3>Japan</h3>
 {% include list-posts entries='1000' offset='0' category='japan' %}

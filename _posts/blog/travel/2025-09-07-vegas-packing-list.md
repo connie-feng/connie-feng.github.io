@@ -5,6 +5,7 @@ date:   2025-09-07
 categories:
   - blog
   - travel
+  - packing
   - vegas
 ---
 
